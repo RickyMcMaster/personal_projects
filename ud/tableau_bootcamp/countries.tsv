@@ -1,0 +1,249 @@
+cca2	country	officialName	tld	tlds	cca3	currencies	capital	languages	region	subregion	eu
+AF	Afghanistan	Islamic Republic of Afghanistan	af	.af	AFG	AFN	Kabul	prs,pus,tuk	Asia	Southern Asia	
+AX	Åland Islands	Åland Islands	ax	.ax	ALA	EUR	Mariehamn	swe	Europe	Northern Europe	
+AL	Albania	Republic of Albania	al	.al	ALB	ALL	Tirana	sqi	Europe	Southern Europe	
+DZ	Algeria	People's Democratic Republic of Algeria	dz	.dz,الجزائر.	DZA	DZD	Algiers	ara	Africa	Northern Africa	
+AS	American Samoa	American Samoa	as	.as	ASM	USD	Pago Pago	eng,smo	Oceania	Polynesia	
+AD	Andorra	Principality of Andorra	ad	.ad	AND	EUR	Andorra la Vella	cat	Europe	Southern Europe	
+AO	Angola	Republic of Angola	ao	.ao	AGO	AOA	Luanda	por	Africa	Middle Africa	
+AI	Anguilla	Anguilla	ai	.ai	AIA	XCD	The Valley	eng	Americas	Caribbean	
+AQ	Antarctica	Antarctica	aq	.aq	ATA	""	""	""	""	""	
+AG	Antigua and Barbuda	Antigua and Barbuda	ag	.ag	ATG	XCD	Saint John's	eng	Americas	Caribbean	
+AR	Argentina	Argentine Republic	ar	.ar	ARG	ARS	Buenos Aires	grn,spa	Americas	South America	
+AM	Armenia	Republic of Armenia	am	.am	ARM	AMD	Yerevan	hye,rus	Asia	Western Asia	
+AW	Aruba	Aruba	aw	.aw	ABW	AWG	Oranjestad	nld,pap	Americas	Caribbean	
+AU	Australia	Commonwealth of Australia	au	.au	AUS	AUD	Canberra	eng	Oceania	Australia and New Zealand	
+AT	Austria	Republic of Austria	at	.at	AUT	EUR	Vienna	bar	Europe	Western Europe	1
+AZ	Azerbaijan	Republic of Azerbaijan	az	.az	AZE	AZN	Baku	aze,rus	Asia	Western Asia	
+BS	Bahamas	Commonwealth of the Bahamas	bs	.bs	BHS	BSD	Nassau	eng	Americas	Caribbean	
+BH	Bahrain	Kingdom of Bahrain	bh	.bh	BHR	BHD	Manama	ara	Asia	Western Asia	
+BD	Bangladesh	People's Republic of Bangladesh	bd	.bd	BGD	BDT	Dhaka	ben	Asia	Southern Asia	
+BB	Barbados	Barbados	bb	.bb	BRB	BBD	Bridgetown	eng	Americas	Caribbean	
+BY	Belarus	Republic of Belarus	by	.by	BLR	BYR	Minsk	bel,rus	Europe	Eastern Europe	
+BE	Belgium	Kingdom of Belgium	be	.be	BEL	EUR	Brussels	deu,fra,nld	Europe	Western Europe	1
+BZ	Belize	Belize	bz	.bz	BLZ	BZD	Belmopan	bjz,eng,spa	Americas	Central America	
+BJ	Benin	Republic of Benin	bj	.bj	BEN	XOF	Porto-Novo	fra	Africa	Western Africa	
+BM	Bermuda	Bermuda	bm	.bm	BMU	BMD	Hamilton	eng	Americas	Northern America	
+BT	Bhutan	Kingdom of Bhutan	bt	.bt	BTN	BTN,INR	Thimphu	dzo	Asia	Southern Asia	
+BO	Bolivia	Plurinational State of Bolivia	bo	.bo	BOL	BOB,BOV	Sucre	aym,grn,que,spa	Americas	South America	
+BA	Bosnia and Herzegovina	Bosnia and Herzegovina	ba	.ba	BIH	BAM	Sarajevo	bos,hrv,srp	Europe	Southern Europe	
+BW	Botswana	Republic of Botswana	bw	.bw	BWA	BWP	Gaborone	eng,tsn	Africa	Southern Africa	
+BV	Bouvet Island	Bouvet Island	bv	.bv	BVT	NOK	""	nor	""	""	
+BR	Brazil	Federative Republic of Brazil	br	.br	BRA	BRL	Brasília	por	Americas	South America	
+IO	British Indian Ocean Territory	British Indian Ocean Territory	io	.io	IOT	USD	Diego Garcia	eng	Africa	Eastern Africa	
+VG	British Virgin Islands	Virgin Islands	vg	.vg	VGB	USD	Road Town	eng	Americas	Caribbean	
+BN	Brunei	Nation of Brunei, Abode of Peace	bn	.bn	BRN	BND	Bandar Seri Begawan	msa	Asia	South-Eastern Asia	
+BG	Bulgaria	Republic of Bulgaria	bg	.bg	BGR	BGN	Sofia	bul	Europe	Eastern Europe	1
+BF	Burkina Faso	Burkina Faso	bf	.bf	BFA	XOF	Ouagadougou	fra	Africa	Western Africa	
+BI	Burundi	Republic of Burundi	bi	.bi	BDI	BIF	Bujumbura	fra,run	Africa	Eastern Africa	
+KH	Cambodia	Kingdom of Cambodia	kh	.kh	KHM	KHR	Phnom Penh	khm	Asia	South-Eastern Asia	
+CM	Cameroon	Republic of Cameroon	cm	.cm	CMR	XAF	Yaoundé	eng,fra	Africa	Middle Africa	
+CA	Canada	Canada	ca	.ca	CAN	CAD	Ottawa	eng,fra	Americas	Northern America	
+CV	Cape Verde	Republic of Cabo Verde	cv	.cv	CPV	CVE	Praia	por	Africa	Western Africa	
+KY	Cayman Islands	Cayman Islands	ky	.ky	CYM	KYD	George Town	eng	Americas	Caribbean	
+CF	Central African Republic	Central African Republic	cf	.cf	CAF	XAF	Bangui	fra,sag	Africa	Middle Africa	
+TD	Chad	Republic of Chad	td	.td	TCD	XAF	N'Djamena	ara,fra	Africa	Middle Africa	
+CL	Chile	Republic of Chile	cl	.cl	CHL	CLF,CLP	Santiago	spa	Americas	South America	
+CN	China	People's Republic of China	cn	.cn,.中国,.中國,.公司,.网络	CHN	CNY	Beijing	cmn	Asia	Eastern Asia	
+CX	Christmas Island	Territory of Christmas Island	cx	.cx	CXR	AUD	Flying Fish Cove	eng	Oceania	Australia and New Zealand	
+CC	Cocos (Keeling) Islands	Territory of the Cocos (Keeling) Islands	cc	.cc	CCK	AUD	West Island	eng	Oceania	Australia and New Zealand	
+CO	Colombia	Republic of Colombia	co	.co	COL	COP	Bogotá	spa	Americas	South America	
+KM	Comoros	Union of the Comoros	km	.km	COM	KMF	Moroni	ara,fra,zdj	Africa	Eastern Africa	
+CK	Cook Islands	Cook Islands	ck	.ck	COK	NZD	Avarua	eng,rar	Oceania	Polynesia	
+CR	Costa Rica	Republic of Costa Rica	cr	.cr	CRI	CRC	San José	spa	Americas	Central America	
+HR	Croatia	Republic of Croatia	hr	.hr	HRV	HRK	Zagreb	hrv	Europe	Southern Europe	1
+CU	Cuba	Republic of Cuba	cu	.cu	CUB	CUC,CUP	Havana	spa	Americas	Caribbean	
+CW	Curaçao	Country of Curaçao	cw	.cw	CUW	ANG	Willemstad	eng,nld,pap	Americas	Caribbean	
+CY	Cyprus	Republic of Cyprus	cy	.cy	CYP	EUR	Nicosia	ell,tur	Europe	Eastern Europe	1
+CZ	Czech Republic	Czech Republic	cz	.cz	CZE	CZK	Prague	ces,slk	Europe	Eastern Europe	1
+DK	Denmark	Kingdom of Denmark	dk	.dk	DNK	DKK	Copenhagen	dan	Europe	Northern Europe	1
+DJ	Djibouti	Republic of Djibouti	dj	.dj	DJI	DJF	Djibouti	ara,fra	Africa	Eastern Africa	
+DM	Dominica	Commonwealth of Dominica	dm	.dm	DMA	XCD	Roseau	eng	Americas	Caribbean	
+DO	Dominican Republic	Dominican Republic	do	.do	DOM	DOP	Santo Domingo	spa	Americas	Caribbean	
+CD	DR Congo	Democratic Republic of the Congo	cd	.cd	COD	CDF	Kinshasa	fra,kon,lin,lua,swa	Africa	Middle Africa	
+EC	Ecuador	Republic of Ecuador	ec	.ec	ECU	USD	Quito	spa	Americas	South America	
+EG	Egypt	Arab Republic of Egypt	eg	.eg,.مصر	EGY	EGP	Cairo	ara	Africa	Northern Africa	
+SV	El Salvador	Republic of El Salvador	sv	.sv	SLV	SVC,USD	San Salvador	spa	Americas	Central America	
+GQ	Equatorial Guinea	Republic of Equatorial Guinea	gq	.gq	GNQ	XAF	Malabo	fra,por,spa	Africa	Middle Africa	
+ER	Eritrea	State of Eritrea	er	.er	ERI	ERN	Asmara	ara,eng,tir	Africa	Eastern Africa	
+EE	Estonia	Republic of Estonia	ee	.ee	EST	EUR	Tallinn	est	Europe	Northern Europe	1
+ET	Ethiopia	Federal Democratic Republic of Ethiopia	et	.et	ETH	ETB	Addis Ababa	amh	Africa	Eastern Africa	
+FK	Falkland Islands	Falkland Islands	fk	.fk	FLK	FKP	Stanley	eng	Americas	South America	
+FO	Faroe Islands	Faroe Islands	fo	.fo	FRO	DKK	Tórshavn	dan,fao	Europe	Northern Europe	
+FJ	Fiji	Republic of Fiji	fj	.fj	FJI	FJD	Suva	eng,fij,hif	Oceania	Melanesia	
+FI	Finland	Republic of Finland	fi	.fi	FIN	EUR	Helsinki	fin,swe	Europe	Northern Europe	1
+FR	France	French Republic	fr	.fr	FRA	EUR	Paris	fra	Europe	Western Europe	1
+GF	French Guiana	Guiana	gf	.gf	GUF	EUR	Cayenne	fra	Americas	South America	
+PF	French Polynesia	French Polynesia	pf	.pf	PYF	XPF	Papeetē	fra	Oceania	Polynesia	
+TF	French Southern and Antarctic Lands	Territory of the French Southern and Antarctic Lands	tf	.tf	ATF	EUR	Port-aux-Français	fra	""	""	
+GA	Gabon	Gabonese Republic	ga	.ga	GAB	XAF	Libreville	fra	Africa	Middle Africa	
+GM	Gambia	Republic of the Gambia	gm	.gm	GMB	GMD	Banjul	eng	Africa	Western Africa	
+GE	Georgia	Georgia	ge	.ge	GEO	GEL	Tbilisi	kat	Asia	Western Asia	
+DE	Germany	Federal Republic of Germany	de	.de	DEU	EUR	Berlin	deu	Europe	Western Europe	1
+GH	Ghana	Republic of Ghana	gh	.gh	GHA	GHS	Accra	eng	Africa	Western Africa	
+GI	Gibraltar	Gibraltar	gi	.gi	GIB	GIP	Gibraltar	eng	Europe	Southern Europe	
+GR	Greece	Hellenic Republic	gr	.gr	GRC	EUR	Athens	ell	Europe	Southern Europe	1
+GL	Greenland	Greenland	gl	.gl	GRL	DKK	Nuuk	kal	Americas	Northern America	
+GD	Grenada	Grenada	gd	.gd	GRD	XCD	St. George's	eng	Americas	Caribbean	
+GP	Guadeloupe	Guadeloupe	gp	.gp	GLP	EUR	Basse-Terre	fra	Americas	Caribbean	
+GU	Guam	Guam	gu	.gu	GUM	USD	Hagåtña	cha,eng,spa	Oceania	Micronesia	
+GT	Guatemala	Republic of Guatemala	gt	.gt	GTM	GTQ	Guatemala City	spa	Americas	Central America	
+GG	Guernsey	Bailiwick of Guernsey	gg	.gg	GGY	GBP	St. Peter Port	eng,fra,nfr	Europe	Northern Europe	
+GN	Guinea	Republic of Guinea	gn	.gn	GIN	GNF	Conakry	fra	Africa	Western Africa	
+GW	Guinea-Bissau	Republic of Guinea-Bissau	gw	.gw	GNB	XOF	Bissau	por	Africa	Western Africa	
+GY	Guyana	Co-operative Republic of Guyana	gy	.gy	GUY	GYD	Georgetown	eng	Americas	South America	
+HT	Haiti	Republic of Haiti	ht	.ht	HTI	HTG,USD	Port-au-Prince	fra,hat	Americas	Caribbean	
+HM	Heard Island and McDonald Islands	Heard Island and McDonald Islands	hm	.hm,.aq	HMD	AUD	""	eng	""	""	
+HN	Honduras	Republic of Honduras	hn	.hn	HND	HNL	Tegucigalpa	spa	Americas	Central America	
+HK	Hong Kong	Hong Kong Special Administrative Region of the People's Republic of China	hk	.hk,.香港	HKG	HKD	City of Victoria	eng,zho	Asia	Eastern Asia	
+HU	Hungary	Hungary	hu	.hu	HUN	HUF	Budapest	hun	Europe	Eastern Europe	1
+IS	Iceland	Iceland	is	.is	ISL	ISK	Reykjavik	isl	Europe	Northern Europe	
+IN	India	Republic of India	in	.in	IND	INR	New Delhi	eng,hin,tam	Asia	Southern Asia	
+ID	Indonesia	Republic of Indonesia	id	.id	IDN	IDR	Jakarta	ind	Asia	South-Eastern Asia	
+IR	Iran	Islamic Republic of Iran	ir	.ir,ایران.	IRN	IRR	Tehran	fas	Asia	Southern Asia	
+IQ	Iraq	Republic of Iraq	iq	.iq	IRQ	IQD	Baghdad	ara,arc,ckb	Asia	Western Asia	
+IE	Ireland	Republic of Ireland	ie	.ie	IRL	EUR	Dublin	eng,gle	Europe	Northern Europe	1
+IM	Isle of Man	Isle of Man	im	.im	IMN	GBP	Douglas	eng,glv	Europe	Northern Europe	
+IL	Israel	State of Israel	il	.il	ISR	ILS	Jerusalem	ara,heb	Asia	Western Asia	
+IT	Italy	Italian Republic	it	.it	ITA	EUR	Rome	bar,ita,srd	Europe	Southern Europe	1
+CI	Ivory Coast	Republic of Côte d'Ivoire	ci	.ci	CIV	XOF	Yamoussoukro	fra	Africa	Western Africa	
+JM	Jamaica	Jamaica	jm	.jm	JAM	JMD	Kingston	eng,jam	Americas	Caribbean	
+JP	Japan	Japan	jp	.jp,.みんな	JPN	JPY	Tokyo	jpn	Asia	Eastern Asia	
+JE	Jersey	Bailiwick of Jersey	je	.je	JEY	GBP	Saint Helier	eng,fra,nrf	Europe	Northern Europe	
+JO	Jordan	Hashemite Kingdom of Jordan	jo	.jo,الاردن.	JOR	JOD	Amman	ara	Asia	Western Asia	
+KZ	Kazakhstan	Republic of Kazakhstan	kz	.kz,.қаз	KAZ	KZT	Astana	kaz,rus	Asia	Central Asia	
+KE	Kenya	Republic of Kenya	ke	.ke	KEN	KES	Nairobi	eng,swa	Africa	Eastern Africa	
+KI	Kiribati	Independent and Sovereign Republic of Kiribati	ki	.ki	KIR	AUD	South Tarawa	eng,gil	Oceania	Micronesia	
+XK	Kosovo	Republic of Kosovo	""	""	KOS	EUR	Pristina	sqi,srp	Europe	Eastern Europe	
+KW	Kuwait	State of Kuwait	kw	.kw	KWT	KWD	Kuwait City	ara	Asia	Western Asia	
+KG	Kyrgyzstan	Kyrgyz Republic	kg	.kg	KGZ	KGS	Bishkek	kir,rus	Asia	Central Asia	
+LA	Laos	Lao People's Democratic Republic	la	.la	LAO	LAK	Vientiane	lao	Asia	South-Eastern Asia	
+LV	Latvia	Republic of Latvia	lv	.lv	LVA	EUR	Riga	lav	Europe	Northern Europe	1
+LB	Lebanon	Lebanese Republic	lb	.lb	LBN	LBP	Beirut	ara,fra	Asia	Western Asia	
+LS	Lesotho	Kingdom of Lesotho	ls	.ls	LSO	LSL,ZAR	Maseru	eng,sot	Africa	Southern Africa	
+LR	Liberia	Republic of Liberia	lr	.lr	LBR	LRD	Monrovia	eng	Africa	Western Africa	
+LY	Libya	State of Libya	ly	.ly	LBY	LYD	Tripoli	ara	Africa	Northern Africa	
+LI	Liechtenstein	Principality of Liechtenstein	li	.li	LIE	CHF	Vaduz	deu	Europe	Western Europe	
+LT	Lithuania	Republic of Lithuania	lt	.lt	LTU	EUR	Vilnius	lit	Europe	Northern Europe	1
+LU	Luxembourg	Grand Duchy of Luxembourg	lu	.lu	LUX	EUR	Luxembourg	deu,fra,ltz	Europe	Western Europe	1
+MO	Macau	Macao Special Administrative Region of the People's Republic of China	mo	.mo	MAC	MOP	""	por,zho	Asia	Eastern Asia	
+MK	Macedonia	Republic of Macedonia	mk	.mk	MKD	MKD	Skopje	mkd	Europe	Southern Europe	
+MG	Madagascar	Republic of Madagascar	mg	.mg	MDG	MGA	Antananarivo	fra,mlg	Africa	Eastern Africa	
+MW	Malawi	Republic of Malawi	mw	.mw	MWI	MWK	Lilongwe	eng,nya	Africa	Eastern Africa	
+MY	Malaysia	Malaysia	my	.my	MYS	MYR	Kuala Lumpur	eng,msa	Asia	South-Eastern Asia	
+MV	Maldives	Republic of the Maldives	mv	.mv	MDV	MVR	Malé	div	Asia	Southern Asia	
+ML	Mali	Republic of Mali	ml	.ml	MLI	XOF	Bamako	fra	Africa	Western Africa	
+MT	Malta	Republic of Malta	mt	.mt	MLT	EUR	Valletta	eng,mlt	Europe	Southern Europe	1
+MH	Marshall Islands	Republic of the Marshall Islands	mh	.mh	MHL	USD	Majuro	eng,mah	Oceania	Micronesia	
+MQ	Martinique	Martinique	mq	.mq	MTQ	EUR	Fort-de-France	fra	Americas	Caribbean	
+MR	Mauritania	Islamic Republic of Mauritania	mr	.mr	MRT	MRO	Nouakchott	ara	Africa	Western Africa	
+MU	Mauritius	Republic of Mauritius	mu	.mu	MUS	MUR	Port Louis	eng,fra,mfe	Africa	Eastern Africa	
+YT	Mayotte	Department of Mayotte	yt	.yt	MYT	EUR	Mamoudzou	fra	Africa	Eastern Africa	
+MX	Mexico	United Mexican States	mx	.mx	MEX	MXN	Mexico City	spa	Americas	Central America	
+FM	Micronesia	Federated States of Micronesia	fm	.fm	FSM	USD	Palikir	eng	Oceania	Micronesia	
+MD	Moldova	Republic of Moldova	md	.md	MDA	MDL	Chișinău	ron	Europe	Eastern Europe	
+MC	Monaco	Principality of Monaco	mc	.mc	MCO	EUR	Monaco	fra	Europe	Western Europe	
+MN	Mongolia	Mongolia	mn	.mn	MNG	MNT	Ulan Bator	mon	Asia	Eastern Asia	
+ME	Montenegro	Montenegro	me	.me	MNE	EUR	Podgorica	srp	Europe	Southern Europe	
+MS	Montserrat	Montserrat	ms	.ms	MSR	XCD	Plymouth	eng	Americas	Caribbean	
+MA	Morocco	Kingdom of Morocco	ma	.ma,المغرب.	MAR	MAD	Rabat	ara,ber	Africa	Northern Africa	
+MZ	Mozambique	Republic of Mozambique	mz	.mz	MOZ	MZN	Maputo	por	Africa	Eastern Africa	
+MM	Myanmar	Republic of the Union of Myanmar	mm	.mm	MMR	MMK	Naypyidaw	mya	Asia	South-Eastern Asia	
+NA	Namibia	Republic of Namibia	na	.na	NAM	NAD,ZAR	Windhoek	afr,deu,eng,her,hgm,kwn,loz,ndo,tsn	Africa	Southern Africa	
+NR	Nauru	Republic of Nauru	nr	.nr	NRU	AUD	Yaren	eng,nau	Oceania	Micronesia	
+NP	Nepal	Federal Democratic Republic of Nepal	np	.np	NPL	NPR	Kathmandu	nep	Asia	Southern Asia	
+NL	Netherlands	Netherlands	nl	.nl	NLD	EUR	Amsterdam	nld	Europe	Western Europe	1
+NC	New Caledonia	New Caledonia	nc	.nc	NCL	XPF	Nouméa	fra	Oceania	Melanesia	
+NZ	New Zealand	New Zealand	nz	.nz	NZL	NZD	Wellington	eng,mri,nzs	Oceania	Australia and New Zealand	
+NI	Nicaragua	Republic of Nicaragua	ni	.ni	NIC	NIO	Managua	spa	Americas	Central America	
+NE	Niger	Republic of Niger	ne	.ne	NER	XOF	Niamey	fra	Africa	Western Africa	
+NG	Nigeria	Federal Republic of Nigeria	ng	.ng	NGA	NGN	Abuja	eng	Africa	Western Africa	
+NU	Niue	Niue	nu	.nu	NIU	NZD	Alofi	eng,niu	Oceania	Polynesia	
+NF	Norfolk Island	Territory of Norfolk Island	nf	.nf	NFK	AUD	Kingston	eng,pih	Oceania	Australia and New Zealand	
+KP	North Korea	Democratic People's Republic of Korea	kp	.kp	PRK	KPW	Pyongyang	kor	Asia	Eastern Asia	
+MP	Northern Mariana Islands	Commonwealth of the Northern Mariana Islands	mp	.mp	MNP	USD	Saipan	cal,cha,eng	Oceania	Micronesia	
+NO	Norway	Kingdom of Norway	no	.no	NOR	NOK	Oslo	nno,nob,smi	Europe	Northern Europe	
+OM	Oman	Sultanate of Oman	om	.om	OMN	OMR	Muscat	ara	Asia	Western Asia	
+PK	Pakistan	Islamic Republic of Pakistan	pk	.pk	PAK	PKR	Islamabad	eng,urd	Asia	Southern Asia	
+PW	Palau	Republic of Palau	pw	.pw	PLW	USD	Ngerulmud	eng,pau	Oceania	Micronesia	
+PS	Palestine	State of Palestine	ps	.ps,فلسطين.	PSE	ILS	Ramallah	ara	Asia	Western Asia	
+PA	Panama	Republic of Panama	pa	.pa	PAN	PAB,USD	Panama City	spa	Americas	Central America	
+PG	Papua New Guinea	Independent State of Papua New Guinea	pg	.pg	PNG	PGK	Port Moresby	eng,hmo,tpi	Oceania	Melanesia	
+PY	Paraguay	Republic of Paraguay	py	.py	PRY	PYG	Asunción	grn,spa	Americas	South America	
+PE	Peru	Republic of Peru	pe	.pe	PER	PEN	Lima	aym,que,spa	Americas	South America	
+PH	Philippines	Republic of the Philippines	ph	.ph	PHL	PHP	Manila	eng,fil	Asia	South-Eastern Asia	
+PN	Pitcairn Islands	Pitcairn Group of Islands	pn	.pn	PCN	NZD	Adamstown	eng	Oceania	Polynesia	
+PL	Poland	Republic of Poland	pl	.pl	POL	PLN	Warsaw	pol	Europe	Eastern Europe	1
+PT	Portugal	Portuguese Republic	pt	.pt	PRT	EUR	Lisbon	por	Europe	Southern Europe	1
+PR	Puerto Rico	Commonwealth of Puerto Rico	pr	.pr	PRI	USD	San Juan	eng,spa	Americas	Caribbean	
+QA	Qatar	State of Qatar	qa	.qa,قطر.	QAT	QAR	Doha	ara	Asia	Western Asia	
+CG	Republic of the Congo	Republic of the Congo	cg	.cg	COG	XAF	Brazzaville	fra,kon,lin	Africa	Middle Africa	
+RE	Réunion	Réunion Island	re	.re	REU	EUR	Saint-Denis	fra	Africa	Eastern Africa	
+RO	Romania	Romania	ro	.ro	ROU	RON	Bucharest	ron	Europe	Eastern Europe	1
+RU	Russia	Russian Federation	ru	.ru,.su,.рф	RUS	RUB	Moscow	rus	Europe	Eastern Europe	
+RW	Rwanda	Republic of Rwanda	rw	.rw	RWA	RWF	Kigali	eng,fra,kin	Africa	Eastern Africa	
+BL	Saint Barthélemy	Collectivity of Saint BarthélemySaint Barthélemy	bl	.bl	BLM	EUR	Gustavia	fra	Americas	Caribbean	
+KN	Saint Kitts and Nevis	Federation of Saint Christopher and Nevisa	kn	.kn	KNA	XCD	Basseterre	eng	Americas	Caribbean	
+LC	Saint Lucia	Saint Lucia	lc	.lc	LCA	XCD	Castries	eng	Americas	Caribbean	
+MF	Saint Martin	Saint Martin	mf	.fr,.gp	MAF	EUR	Marigot	fra	Americas	Caribbean	
+PM	Saint Pierre and Miquelon	Saint Pierre and Miquelon	pm	.pm	SPM	EUR	Saint-Pierre	fra	Americas	Northern America	
+VC	Saint Vincent and the Grenadines	Saint Vincent and the Grenadines	vc	.vc	VCT	XCD	Kingstown	eng	Americas	Caribbean	
+WS	Samoa	Independent State of Samoa	ws	.ws	WSM	WST	Apia	eng,smo	Oceania	Polynesia	
+SM	San Marino	Most Serene Republic of San Marino	sm	.sm	SMR	EUR	City of San Marino	ita	Europe	Southern Europe	
+ST	São Tomé and Príncipe	Democratic Republic of São Tomé and Príncipe	st	.st	STP	STD	São Tomé	por	Africa	Middle Africa	
+SA	Saudi Arabia	Kingdom of Saudi Arabia	sa	.sa,.السعودية	SAU	SAR	Riyadh	ara	Asia	Western Asia	
+SN	Senegal	Republic of Senegal	sn	.sn	SEN	XOF	Dakar	fra	Africa	Western Africa	
+RS	Serbia	Republic of Serbia	rs	.rs,.срб	SRB	RSD	Belgrade	srp	Europe	Southern Europe	
+SC	Seychelles	Republic of Seychelles	sc	.sc	SYC	SCR	Victoria	crs,eng,fra	Africa	Eastern Africa	
+SL	Sierra Leone	Republic of Sierra Leone	sl	.sl	SLE	SLL	Freetown	eng	Africa	Western Africa	
+SG	Singapore	Republic of Singapore	sg	.sg,.新加坡,.சிங்கப்பூர்	SGP	SGD	Singapore	cmn,eng,msa,tam	Asia	South-Eastern Asia	
+SX	Sint Maarten	Sint Maarten	sx	.sx	SXM	ANG	Philipsburg	eng,fra,nld	Americas	Caribbean	
+SK	Slovakia	Slovak Republic	sk	.sk	SVK	EUR	Bratislava	slk	Europe	Eastern Europe	1
+SI	Slovenia	Republic of Slovenia	si	.si	SVN	EUR	Ljubljana	slv	Europe	Southern Europe	1
+SB	Solomon Islands	Solomon Islands	sb	.sb	SLB	SDB	Honiara	eng	Oceania	Melanesia	
+SO	Somalia	Federal Republic of Somalia	so	.so	SOM	SOS	Mogadishu	ara,som	Africa	Eastern Africa	
+ZA	South Africa	Republic of South Africa	za	.za	ZAF	ZAR	Pretoria	afr,eng,nbl,nso,sot,ssw,tsn,tso,ven,xho,zul	Africa	Southern Africa	
+GS	South Georgia	South Georgia and the South Sandwich Islands	gs	.gs	SGS	GBP	King Edward Point	eng	Americas	South America	
+KR	South Korea	Republic of Korea	kr	.kr,.한국	KOR	KRW	Seoul	kor	Asia	Eastern Asia	
+SS	South Sudan	Republic of South Sudan	ss	.ss	SSD	SSP	Juba	eng	Africa	Middle Africa	
+ES	Spain	Kingdom of Spain	es	.es	ESP	EUR	Madrid	cat,eus,glg,oci,spa	Europe	Southern Europe	1
+LK	Sri Lanka	Democratic Socialist Republic of Sri Lanka	lk	.lk,.இலங்கை,.ලංකා	LKA	LKR	Colombo	sin,tam	Asia	Southern Asia	
+SD	Sudan	Republic of the Sudan	sd	.sd	SDN	SDG	Khartoum	ara,eng	Africa	Northern Africa	
+SR	Suriname	Republic of Suriname	sr	.sr	SUR	SRD	Paramaribo	nld	Americas	South America	
+SJ	Svalbard and Jan Mayen	Svalbard og Jan Mayen	sj	.sj	SJM	NOK	Longyearbyen	nor	Europe	Northern Europe	
+SZ	Swaziland	Kingdom of Swaziland	sz	.sz	SWZ	SZL	Lobamba	eng,ssw	Africa	Southern Africa	
+SE	Sweden	Kingdom of Sweden	se	.se	SWE	SEK	Stockholm	swe	Europe	Northern Europe	1
+CH	Switzerland	Swiss Confederation	ch	.ch	CHE	CHE,CHF,CHW	Bern	fra,gsw,ita,roh	Europe	Western Europe	
+SY	Syria	Syrian Arab Republic	sy	.sy,سوريا.	SYR	SYP	Damascus	ara	Asia	Western Asia	
+TW	Taiwan	Republic of China	tw	.tw,.台湾,.台灣	TWN	TWD	Taipei	cmn	Asia	Eastern Asia	
+TJ	Tajikistan	Republic of Tajikistan	tj	.tj	TJK	TJS	Dushanbe	rus,tgk	Asia	Central Asia	
+TZ	Tanzania	United Republic of Tanzania	tz	.tz	TZA	TZS	Dodoma	eng,swa	Africa	Eastern Africa	
+TH	Thailand	Kingdom of Thailand	th	.th,.ไทย	THA	THB	Bangkok	tha	Asia	South-Eastern Asia	
+TL	Timor-Leste	Democratic Republic of Timor-Leste	tl	.tl	TLS	USD	Dili	por,tet	Asia	South-Eastern Asia	
+TG	Togo	Togolese Republic	tg	.tg	TGO	XOF	Lomé	fra	Africa	Western Africa	
+TK	Tokelau	Tokelau	tk	.tk	TKL	NZD	Fakaofo	eng,smo,tkl	Oceania	Polynesia	
+TO	Tonga	Kingdom of Tonga	to	.to	TON	TOP	Nuku'alofa	eng,ton	Oceania	Polynesia	
+TT	Trinidad and Tobago	Republic of Trinidad and Tobago	tt	.tt	TTO	TTD	Port of Spain	eng	Americas	Caribbean	
+TN	Tunisia	Tunisian Republic	tn	.tn	TUN	TND	Tunis	ara	Africa	Northern Africa	
+TR	Turkey	Republic of Turkey	tr	.tr	TUR	TRY	Ankara	tur	Asia	Western Asia	
+TM	Turkmenistan	Turkmenistan	tm	.tm	TKM	TMT	Ashgabat	rus,tuk	Asia	Central Asia	
+TC	Turks and Caicos Islands	Turks and Caicos Islands	tc	.tc	TCA	USD	Cockburn Town	eng	Americas	Caribbean	
+TV	Tuvalu	Tuvalu	tv	.tv	TUV	AUD	Funafuti	eng,tvl	Oceania	Polynesia	
+UG	Uganda	Republic of Uganda	ug	.ug	UGA	UGX	Kampala	eng,swa	Africa	Eastern Africa	
+UA	Ukraine	Ukraine	ua	.ua,.укр	UKR	UAH	Kiev	rus,ukr	Europe	Eastern Europe	
+AE	United Arab Emirates	United Arab Emirates	ae	.ae,امارات.	ARE	AED	Abu Dhabi	ara	Asia	Western Asia	
+GB	United Kingdom	United Kingdom of Great Britain and Northern Ireland	gb	.uk	GBR	GBP	London	eng	Europe	Northern Europe	1
+US	United States	United States of America	us	.us	USA	USD,USN,USS	Washington D.C.	eng	Americas	Northern America	
+UM	United States Minor Outlying Islands	United States Minor Outlying Islands	um	.us	UMI	USD	""	eng	Americas	Northern America	
+VI	United States Virgin Islands	Virgin Islands of the United States	vi	.vi	VIR	USD	Charlotte Amalie	eng	Americas	Caribbean	
+UY	Uruguay	Oriental Republic of Uruguay	uy	.uy	URY	UYI,UYU	Montevideo	spa	Americas	South America	
+UZ	Uzbekistan	Republic of Uzbekistan	uz	.uz	UZB	UZS	Tashkent	rus,uzb	Asia	Central Asia	
+VU	Vanuatu	Republic of Vanuatu	vu	.vu	VUT	VUV	Port Vila	bis,eng,fra	Oceania	Melanesia	
+VA	Vatican City	Vatican City State	va	.va	VAT	EUR	Vatican City	ita,lat	Europe	Southern Europe	
+VE	Venezuela	Bolivarian Republic of Venezuela	ve	.ve	VEN	VEF	Caracas	spa	Americas	South America	
+VN	Vietnam	Socialist Republic of Vietnam	vn	.vn	VNM	VND	Hanoi	vie	Asia	South-Eastern Asia	
+WF	Wallis and Futuna	Territory of the Wallis and Futuna Islands	wf	.wf	WLF	XPF	Mata-Utu	fra	Oceania	Polynesia	
+EH	Western Sahara	Sahrawi Arab Democratic Republic	eh	.eh	ESH	MAD,DZD,MRO	El Aaiún	ber,mey,spa	Africa	Northern Africa	
+YE	Yemen	Republic of Yemen	ye	.ye	YEM	YER	Sana'a	ara	Asia	Western Asia	
+ZM	Zambia	Republic of Zambia	zm	.zm	ZMB	ZMW	Lusaka	eng	Africa	Eastern Africa	
+ZW	Zimbabwe	Republic of Zimbabwe	zw	.zw	ZWE	ZWL	Harare	bwg,eng,kck,khi,ndc,nde,nya,sna,sot,toi,tsn,tso,ven,xho,zib	Africa	Eastern Africa	
