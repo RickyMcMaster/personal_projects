@@ -1,0 +1,12 @@
+aus_airpassengers       Air Transport Passengers Australia
+aus_arrivals            International Arrivals to Australia
+boston_marathon         Boston marathon winning times since 1897
+canadian_gas            Monthly Canadian gas production
+fpp3_conflicts          Conflicts between fpp3 packages and other
+                        packages
+fpp3_packages           List all packages loaded by fpp3
+guinea_rice             Rice production (Guinea)
+us_change               Percentage changes in economic variables in the
+                        USA.
+us_employment           US monthly employment data
+us_gasoline             US finished motor gasoline product supplied.
