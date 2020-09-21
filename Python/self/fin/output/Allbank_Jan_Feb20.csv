@@ -1,0 +1,193 @@
+Date,Category,Sub-Category,Details,Amount_EUR,Payer,Payee,Type,Bank
+2020-03-01,Leisure/Entertainment,,,-12.0,,BREWDOG MITTE 501,Expense,N26
+2020-03-02,Leisure/Entertainment,Eating Out,,-16.0,,Pho Co,Expense,N26
+2020-03-02,Groceries,,,-4.7,,denns Biomarkt,Expense,N26
+2020-03-02,Household,,,-8.9,,ARMINIUS-APOTHEKE,Expense,N26
+2020-03-02,Software,,"PP.1614.PP . PADDLE.COM, Ihr Einkauf bei PADDLE.COM",-4.5,,PayPal Europe S.a.r.l. et Cie S.C.A,Expense,N26
+2020-03-02,Rent,,Kaution Rheingaustr.,-550.0,Richard Mcmaster,Claudia (ING-Diba),Expense,Postbank
+2020-03-02,Bank Transfer,,TRANSFER FROM POSTBANK,-500.0,Richard Mcmaster,RICHARD MCMASTER (N26),Expense,Postbank
+2020-03-02,Reimbursement,,"Referenz NOTPROVIDEDLohnforderung, 5,, quotale Ausschuettung Masseverbindlichkeiten",309.81,Dr. Bjˆrn Ulrich Gehde,Richard Mcmaster,Income,Postbank
+2020-03-02,Loan Repayment,,"Referenz 60068549222020Ratenkredit 1035716633, Leistungenzum 29.02.2020",-830.0,Richard Mcmaster,Postbank NDL DB PFK,Expense,Postbank
+2020-03-02,Leisure/Entertainment,,"Referenz 1008140146385 PP.3223.PP  . TICKETS.DE, Ihr Einkauf bei TICKETS.DE",-177.72,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-03-02,Media Subscriptions,,"Referenz 1008130967273 PP.3223.PP  . MEDIUM.COM, Ihr Einkauf bei MEDIUM.COM",-4.8,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-03-02,Loan Repayment,,Referenz 202454514/1Mandat 000053176000001Einreicher-ID DE08ZZZ00000011659CONSORS FINANZ VERTRAGS-NR. ESN 5317602016ABBUCHUNG PER 1.03.2020,-238.4,Richard Mcmaster,Mcmaster Richard,Expense,Postbank
+2020-03-02,Rent,,MIETE,-425.0,Richard Mcmaster,CLAUDIA WOLF,Expense,Postbank
+2020-03-02,Insurance,,"Referenz 211+ZKLE 27.02.20 742/078450-H-14FMandat MR016929633Einreicher-ID DE17ZZZ00000031285HUK-COBURG-Allgemeine, HAUSRAT-/HAUSHALTGLAS-VERS. 742/078450-H-14abweichender AuftraggeberHUK-COBURG-ALLGEMEINE VERSICHERUNGAG",-29.51,Richard Mcmaster,HUK-COBURG UNTERNEHMENSGRUPPE,Expense,Postbank
+2020-03-02,Bank Transfer,,Unknown,-500.0,Richard Mcmaster,RICHARD MCMASTER (TAGESGELD),Expense,Postbank
+2020-03-02,Insurance,,Referenz 050030579777Mandat M-200-004-894-652-4Einreicher-ID DE74ZZZ0000005189040-013288538/HDI Leben/Forderung03/20,-39.14,Richard Mcmaster,HDI Lebensversicherung AG,Expense,Postbank
+2020-03-02,Loan Repayment,,X664847826,-134.07,Richard Mcmaster,MEDISERV,Expense,Postbank
+2020-03-03,Groceries,,Referenz 56004950207385020320214652Mandat OFFLINEEinreicher-ID DE58ZZZ00000257236REWE SAGT DANKE. 42400775//Berlin Neukoelln/DETerminal 560049502020-03-02T21:46:52Folgenr. 04 Verfalld. 2012,-76.53,Richard Mcmaster,REWE Markt GmbH,Expense,Postbank
+2020-03-03,,,TRANSFER FROM POSTBANK,500.0,,Richard Mcmaster,Income,N26
+2020-03-03,Groceries,,,-11.34,,Netto Marken-Discount,Expense,N26
+2020-03-03,Media Subscriptions,,Referenz C4715830714534475CMandat 1515095450503914Einreicher-ID NL74ZZZ342764500017Spotify P0EC9BF5AEabweichender AuftraggeberSpotify,-9.99,Richard Mcmaster,SPOTIFY,Expense,Postbank
+2020-03-04,Household,,,-7.98,,BUDNIKOWSKY,Expense,N26
+2020-03-04,Leisure/Entertainment,Eating Out,,-4.0,,THE BARN GMBH,Expense,N26
+2020-03-04,Groceries,,"Referenz 52068222326535020320141928Mandat OFFLINEEinreicher-ID DE2201100000148274EDEKA 5409, BERLIN//BERLIN/DETerminal 520682222020-03-02T14:19:28Folgenr. 004 Verfalld. 2012",-83.79,Richard Mcmaster,"EDEKA 5409, BERLIN",Expense,Postbank
+2020-03-06,Charity,,Referenz 139B0F46A9Mandat T000011357-100305733520200303044003Einreicher-ID DE62ZZZ00000060933139B0F46A9 atmosfair gGmbH Berlin Climate protection contribution atmosfair AX1000392291,-6.0,Richard Mcmaster,atmosfair gGmbH,Expense,Postbank
+2020-03-06,Lunch,,,-4.5,,STEINECKE'S HEIDEBROT,Expense,N26
+2020-03-06,Software,,"PP.1614.PP . PADDLE.COM, Ihr Einkauf bei PADDLE.COM",-34.95,,PayPal Europe S.a.r.l. et Cie S.C.A,Expense,N26
+2020-03-07,Books,,,-16.98,,HUGENDUBEL,Expense,N26
+2020-03-07,Groceries,,,-48.86,,REWE Markt GmbH-Zw,Expense,N26
+2020-03-07,Books,,,-7.0,,IZ *Curious Fox - Baum,Expense,N26
+2020-03-09,Rent,,Rheingaustrasse Miete,-665.0,Richard Mcmaster,Claudia (ING-Diba),Expense,Postbank
+2020-03-09,Cash Withdrawal,,Referenz 07001743032967060320185553Mandat 187490Einreicher-ID DE7600200000132558Deutsche Bank//Berlin/DETerminal 070017432020-03-06T18:55:53Folgenr. 004 Verfalld. 2012,-100.0,Richard Mcmaster,DEUTSCHE BANK,Expense,Postbank
+2020-03-09,Bank Transfer,,Unknown,2000.0,RICHARD MCMASTER,Richard Mcmaster,Income,Postbank
+2020-03-10,Groceries,,,-5.31,,Netto Marken-Discount,Expense,N26
+2020-03-10,Software,,"PP.1614.PP . LUCIDSOFTWA, Ihr Einkauf bei LUCIDSOFTWA",-10.65,,PayPal Europe S.a.r.l. et Cie S.C.A,Expense,N26
+2020-03-10,Media Subscriptions,,"Referenz 1008233488438 PP.3223.PP  . GITHUB INC, Ihr Einkauf bei GITHUB INC",-6.5,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-03-10,Household,,,-20.32,,Rossmann 431,Expense,N26
+2020-03-11,Groceries,,,-7.79,,denns Biomarkt,Expense,N26
+2020-03-12,Groceries,,,-16.63,,KAFEIN B-Hermannpl,Expense,N26
+2020-03-12,Groceries,,,-6.65,,Netto Marken-Discount,Expense,N26
+2020-03-12,Cash Withdrawal,,PGA 55501382 KRT0004/12.2012.03 19.32 TA-NR. 00588410967 Berlin Hermannplatz 1Postbank Card (Debitkarte) MIT PIN,-100.0,Richard Mcmaster,Unknown,Expense,Postbank
+2020-03-12,Media Subscriptions,,"Referenz 1008256931507 PP.3223.PP  . ITUNESAPPST, Ihr Einkauf bei ITUNESAPPST",-2.99,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-03-12,Travel,,"Referenz 1008252497823 PP.3223.PP  . BVG JELBI, Ihr Einkaufbei BVG JELBI",-9.0,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-03-13,Media Subscriptions,,"PP.1614.PP . WASHPOST, Ihr Einkauf bei WASHPOST",-5.55,,PayPal Europe S.a.r.l. et Cie S.C.A,Expense,N26
+2020-03-13,Groceries,,,-13.54,,Penny Flughafenstr.,Expense,N26
+2020-03-13,Groceries,,,-0.99,,Penny Flughafenstr.,Expense,N26
+2020-03-13,Leisure/Entertainment,,,-14.6,,MUSTY BURGER,Expense,N26
+2020-03-13,Charity,,Referenz 16167523Mandat 2019-11024309Einreicher-ID DE06GPD00000328012LX-5310059864-56267228-Foerdererbeitrag Danke.,-5.0,Richard Mcmaster,Greenpeace e.V.,Expense,Postbank
+2020-03-14,Leisure/Entertainment,Eating Out,,-6.0,,SumUp  *YaMe NumNums,Expense,N26
+2020-03-14,Groceries,,,-23.12,,REWE Markt GmbH-Zw,Expense,N26
+2020-03-17,Groceries,,,-98.74,,REWE Markt GmbH-Zw,Expense,N26
+2020-03-17,Phone/Internet,,Referenz RECHNR. 100707281123Mandat KD020007705588Einreicher-ID DE20KD00000005829403/2020 K-NR. 332339728 Ihre Rechnung online bei www.vodafone.de/meinkabel,-12.77,Richard Mcmaster,Vodafone Kabel Deutschland GmbH,Expense,Postbank
+2020-03-18,Phone/Internet,,Referenz 0000109069486 0013742163371Mandat DE04KMMC000109069486T017375165Einreicher-ID DE26ZZZ000000061940000109069486 0013742163371 Rechnungsnr: 116917625562 Vodafone sagt vielen Dank,-30.21,Richard Mcmaster,Vodafone GmbH,Expense,Postbank
+2020-03-20,Media Subscriptions,,"Referenz 1008326906903 PP.3223.PP  . ITUNESAPPST, Ihr Einkauf bei ITUNESAPPST",-6.99,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-03-20,Health,,000017299922,-132.02,Richard Mcmaster,Health AG,Expense,Postbank
+2020-03-20,Household,,,-6.25,,Impuls Apotheke,Expense,N26
+2020-03-20,Household,,,-6.25,,IMPULS APOTHEKE,Expense,N26
+2020-03-21,Household,,,-26.3,,Rossmann 2590,Expense,N26
+2020-03-23,Bank Transfer,,,-37.61,,BARCLAYCARD.CO.UK,Expense,N26
+2020-03-23,Reimbursement,,Jan-Feb reconciliation,-226.0,Richard Mcmaster,Claudia (ING-Diba),Expense,Postbank
+2020-03-23,,,"Referenz 1008330865092 PP.3223.PP  . EXPERT-ECOM, Ihr Einkauf bei EXPERT-ECOM",-68.96,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-03-24,Media Subscriptions,,"Referenz 1008353008671 PP.3223.PP  . GOOGLE, Ihr Einkauf bei GOOGLE",-9.99,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-03-25,Wages,,Referenz 6908321970-000072VerwendungszweckLohn - Gehalt Abrechnung 03/2020,2950.81,plista GmbH,Richard Mcmaster,Income,Postbank
+2020-03-27,Groceries,,Referenz 56004950215621260320084705Mandat OFFLINEEinreicher-ID DE58ZZZ00000257236REWE SAGT DANKE. 42400775//Berlin Neukoelln/DETerminal 560049502020-03-26T08:47:05Folgenr. 04 Verfalld. 2012,-101.76,Richard Mcmaster,REWE Markt GmbH,Expense,Postbank
+2020-03-31,Media Subscriptions,,"Referenz 1008405731360 PP.3223.PP  . MEDIUM.COM, Ihr Einkauf bei MEDIUM.COM",-4.79,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-03-31,,,,-22.91,,AMZN Mktp UK*IJ09Y94W5,Expense,N26
+2020-03-31,Loan Repayment,,"Referenz 60101732652020Ratenkredit 1035716633, Leistungenzum 31.03.2020",-830.0,Richard Mcmaster,Postbank NDL DB PFK,Expense,Postbank
+2020-03-31,,,Unknown,-14.7,Richard Mcmaster,Unknown,Expense,Postbank
+2020-04-01,Rent,,MIETE,-425.0,Richard Mcmaster,CLAUDIA WOLF,Expense,Postbank
+2020-04-01,Insurance,,Referenz 010030908100Mandat M-200-004-894-652-4Einreicher-ID DE74ZZZ0000005189040-013288538/HDI Leben/Forderung04/20,-39.14,Richard Mcmaster,HDI Lebensversicherung AG,Expense,Postbank
+2020-04-01,Loan Repayment,,X664847826,-134.07,Richard Mcmaster,MEDISERV,Expense,Postbank
+2020-04-01,Software,,"PP.1614.PP . PADDLE.COM, Ihr Einkauf bei PADDLE.COM",-4.5,,PayPal Europe S.a.r.l. et Cie S.C.A,Expense,N26
+2020-04-01,Loan Repayment,,Referenz 202782729/1Mandat 000053176000001Einreicher-ID DE08ZZZ00000011659CONSORS FINANZ VERTRAGS-NR. ESN 5317602016ABBUCHUNG PER 1.04.2020,-238.4,Richard Mcmaster,Mcmaster Richard,Expense,Postbank
+2020-04-01,Bank Transfer,,TRANSFER FROM POSTBANK,-500.0,Richard Mcmaster,RICHARD MCMASTER (N26),Expense,Postbank
+2020-04-01,Bank Transfer,,Unknown,-500.0,Richard Mcmaster,RICHARD MCMASTER (TAGESGELD),Expense,Postbank
+2020-04-01,Groceries,,,-26.3,,Penny Flughafenstr.,Expense,N26
+2020-04-02,,,TRANSFER FROM POSTBANK,500.0,,Richard Mcmaster,Income,N26
+2020-04-03,Media Subscriptions,,Referenz C1515857498571868CMandat 1515095450503914Einreicher-ID NL74ZZZ342764500017Spotify P0F2CBD211abweichender AuftraggeberSpotify,-9.99,Richard Mcmaster,SPOTIFY,Expense,Postbank
+2020-04-03,,,"Referenz 1008465006661 PP.3223.PP  . HANSEMERKUR, Ihr Einkauf bei HANSEMERKUR",-17.0,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-04-04,Household,,,-39.67,,Rossmann 2590,Expense,N26
+2020-04-07,Cash Withdrawal,,Referenz 07001742163156060420204813Mandat 277202Einreicher-ID DE7600200000132558Deutsche Bank//Berlin/DETerminal 070017422020-04-06T20:48:13Folgenr. 004 Verfalld. 2012,-500.0,Richard Mcmaster,DEUTSCHE BANK,Expense,Postbank
+2020-04-08,Charity,,Referenz E3FA56476AMandat T000011357-101647830120200403045650Einreicher-ID DE62ZZZ00000060933E3FA56476A atmosfair gGmbH Berlin atmosfair AX1000402447,-6.0,Richard Mcmaster,atmosfair gGmbH,Expense,Postbank
+2020-04-09,Rent,,Kaution 2,-1000.0,Richard Mcmaster,Claudia (ING-Diba),Expense,Postbank
+2020-04-09,Groceries,,,-113.88,,REWE Markt GmbH-Zw,Expense,N26
+2020-04-09,Bank Transfer,,Unknown,1500.0,RICHARD MCMASTER,Richard Mcmaster,Income,Postbank
+2020-04-09,Household,,,-15.64,,BAUHAUS 597,Expense,N26
+2020-04-11,Groceries,,,-19.01,,REWE Markt GmbH-Zw,Expense,N26
+2020-04-11,Household,,,-18.18,,Rossmann 813,Expense,N26
+2020-04-11,Household,,,-5.6,,DM-Drogerie Markt,Expense,N26
+2020-04-14,Groceries,,Referenz 65053772144805090420174817Mandat OFFLINEEinreicher-ID DE16ZZZ00000020245BIO GRANDE NATRUKOS//BERLIN/DETerminal 650537722020-04-09T17:48:17Folgenr. 04 Verfalld. 2012,-5.65,Richard Mcmaster,BIO GRANDE NATRUKOST,Expense,Postbank
+2020-04-14,Media Subscriptions,,"PP.1614.PP . WASHPOST, Ihr Einkauf bei WASHPOST",-5.77,,PayPal Europe S.a.r.l. et Cie S.C.A,Expense,N26
+2020-04-14,Software,,"PP.1614.PP . LUCIDSOFTWA, Ihr Einkauf bei LUCIDSOFTWA",-10.65,,PayPal Europe S.a.r.l. et Cie S.C.A,Expense,N26
+2020-04-14,Household,,Referenz 65430451041452090420170933Mandat OFFLINEEinreicher-ID DE16ZZZ00000020245BAUHAUS BERLIN-SCHO//BERLIN/DETerminal 654304512020-04-09T17:09:33Folgenr. 04 Verfalld. 2012,-79.95,Richard Mcmaster,BAUHAUS BERLIN-SCHOENEBERG,Expense,Postbank
+2020-04-14,Media Subscriptions,,"Referenz 1008542868429 PP.3223.PP  . GITHUB INC, Ihr Einkauf bei GITHUB INC",-6.76,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-04-15,Reimbursement,,Sophia Birthday ,10.0,,Jan Ahtiainen,Income,N26
+2020-04-15,Household,,Referenz 65430473016049090420171225ELV65430473 09.04 17.12 ME4,75.0,BAUHAUS BERLIN-SCHOENEBERG,Richard Mcmaster,Income,Postbank
+2020-04-15,Household,,,-59.29,,BAUHAUS 597,Expense,N26
+2020-04-15,Reimbursement,,Sophia's gift,10.0,,Despoina Giotopoulou,Income,N26
+2020-04-15,Charity,,Referenz 16451810Mandat 2019-11024309Einreicher-ID DE06GPD00000328012LX-5310059864-56850596-Foerdererbeitrag Danke.,-5.0,Richard Mcmaster,Greenpeace e.V.,Expense,Postbank
+2020-04-15,Media Subscriptions,,"Referenz 1008570309241 PP.3223.PP  . ITUNESAPPST, Ihr Einkauf bei ITUNESAPPST",-2.99,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-04-16,,,"PP.1614.PP . GROUPGREETI, Ihr Einkauf bei GROUPGREETI",-4.77,,PayPal Europe S.a.r.l. et Cie S.C.A,Expense,N26
+2020-04-17,Groceries,,Referenz 52096533071270160420115012Mandat OFFLINEEinreicher-ID DE66ZZZ00001671352LEBENSMITTEL WUEST LAUBACHE//BERLIN/DETerminal 520965332020-04-16T11:50:12Folgenr. 004 Verfalld. 2012,-26.73,Richard Mcmaster,LEBENSMITTEL WUEST LAUBACHE,Expense,Postbank
+2020-04-17,Gifts,,,-196.06,,GIFTLY GIFT CARDS,Expense,N26
+2020-04-18,Groceries,,,-47.1,,REWE Markt GmbH-Zw,Expense,N26
+2020-04-19,Leisure/Entertainment,Eating Out,,-13.86,,BEEF FABRIK,Expense,N26
+2020-04-20,,,,126.0,,PAYPAL EUROPE SARL ET CIE SCA,Income,N26
+2020-04-20,Phone/Internet,,Referenz 0000109069486 0013804804180Mandat DE04KMMC000109069486T017375165Einreicher-ID DE26ZZZ000000061940000109069486 0013804804180 Rechnungsnr: 116994379976 Vodafone sagt vielen Dank,-42.71,Richard Mcmaster,Vodafone GmbH,Expense,Postbank
+2020-04-21,Media Subscriptions,,"Referenz 1008658565163 PP.3223.PP  . ITUNESAPPST, Ihr Einkauf bei ITUNESAPPST",-6.99,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-04-23,Media Subscriptions,,"Referenz 1008690819557 PP.3223.PP  . GOOGLE, Ihr Einkauf bei GOOGLE",-9.99,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-04-24,Wages,,Referenz 6911323713-000070VerwendungszweckLohn - Gehalt Abrechnung 04/2020,2938.81,plista GmbH,Richard Mcmaster,Income,Postbank
+2020-04-25,Groceries,,,-106.57,,REWE Markt GmbH-Zw,Expense,N26
+2020-04-26,Charity,,,-5.0,,HSO*Ärzte ohne Grenzen,Expense,N26
+2020-04-27,Media Subscriptions,,"Referenz 1008708972952 PP.3223.PP  . CONDE NAST, Ihr Einkauf bei CONDE NAST",-96.43,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-04-29,Software,,"PP.1614.PP . PADDLE.COM, Ihr Einkauf bei PADDLE.COM",-4.5,,PayPal Europe S.a.r.l. et Cie S.C.A,Expense,N26
+2020-04-29,Media Subscriptions,,"Referenz 1008755636632 PP.3223.PP  . MEDIUM.COM, Ihr Einkauf bei MEDIUM.COM",-4.86,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-04-30,Loan Repayment,,"Referenz 60133541432020Ratenkredit 1035716633, Leistungenzum 30.04.2020",-830.0,Richard Mcmaster,Postbank NDL DB PFK,Expense,Postbank
+2020-05-03,Leisure/Entertainment,,,-3.3,,iZ *Isla Berlin Gm,Expense,N26
+2020-05-04,Groceries,,Referenz 56004880339019020520131442Mandat OFFLINEEinreicher-ID DE58ZZZ00000257236REWE SAGT DANKE. 42400229//Berlin Friedenau/DETerminal 560048802020-05-02T13:14:42Folgenr. 04 Verfalld. 2012,-88.05,Richard Mcmaster,REWE Markt GmbH,Expense,Postbank
+2020-05-04,Loan Repayment,,X664847826,-134.07,Richard Mcmaster,MEDISERV,Expense,Postbank
+2020-05-04,Insurance,,Referenz 090028908721Mandat M-200-004-894-652-4Einreicher-ID DE74ZZZ0000005189040-013288538/HDI Leben/Forderung05/20,-39.14,Richard Mcmaster,HDI Lebensversicherung AG,Expense,Postbank
+2020-05-04,Loan Repayment,,Referenz 203084165/1Mandat 000053176000001Einreicher-ID DE08ZZZ00000011659CONSORS FINANZ VERTRAGS-NR. ESN 5317602016ABBUCHUNG PER 1.05.2020,-238.4,Richard Mcmaster,Mcmaster Richard,Expense,Postbank
+2020-05-04,Bank Transfer,,TRANSFER FROM POSTBANK,-500.0,Richard Mcmaster,RICHARD MCMASTER (N26),Expense,Postbank
+2020-05-04,Rent,,MIETE,-425.0,Richard Mcmaster,CLAUDIA WOLF,Expense,Postbank
+2020-05-04,Bank Transfer,,Unknown,-500.0,Richard Mcmaster,RICHARD MCMASTER (TAGESGELD),Expense,Postbank
+2020-05-05,,,"Referenz 1008820674876 PP.3223.PP  . momox GmbH, Ihr Einkauf bei momox GmbH, Artikel-372936314404",-3.47,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-05-05,Rent,,Kaution 3,-650.0,Richard Mcmaster,Claudia (ING-Diba),Expense,Postbank
+2020-05-05,Rent,,Miete Mai,-665.0,Richard Mcmaster,Claudia (ING-Diba),Expense,Postbank
+2020-05-05,Media Subscriptions,,Referenz C4615883418550504CMandat 1515095450503914Einreicher-ID NL74ZZZ342764500017Spotify P0F906AA60abweichender AuftraggeberSpotify,-9.99,Richard Mcmaster,SPOTIFY,Expense,Postbank
+2020-05-05,Online Education,,"Referenz 1008804549592 PP.3223.PP  . UDEMY, Ihr Einkauf beiUDEMY",-9.99,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-05-05,Online Education,,"Referenz 1008804497930 PP.3223.PP  . UDEMY, Ihr Einkauf beiUDEMY",-9.99,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-05-05,Household,,Referenz 02051200436615020121001630065317667Mandat 6531766739532005021200Einreicher-ID DE16ZZZ00000020245020512004366150201210016300 ELV65317667 02.05 12.00 ME4,-32.74,Richard Mcmaster,ROSSMANN VIELEN DANK,Expense,Postbank
+2020-05-05,,,TRANSFER FROM POSTBANK,500.0,,Richard Mcmaster,Income,N26
+2020-05-05,,,Unknown,1000.0,Richard Mcmaster,Richard Mcmaster,Income,Postbank
+2020-05-05,Leisure/Entertainment,Eating Out,,-8.5,,RISTORANTE PINO,Expense,N26
+2020-05-06,Charity,,Referenz F6FD6AC423Mandat P000011357-101093825520191003190413Einreicher-ID DE62ZZZ00000060933F6FD6AC423 atmosfair gGmbH Berlin Climate protection subscription AX1000410032,-6.0,Richard Mcmaster,atmosfair gGmbH,Expense,Postbank
+2020-05-07,Groceries,,,-13.63,,denns Biomarkt,Expense,N26
+2020-05-08,Media Subscriptions,,"PP.1614.PP . WASHPOST, Ihr Einkauf bei WASHPOST",-5.8,,PayPal Europe S.a.r.l. et Cie S.C.A,Expense,N26
+2020-05-09,Leisure/Entertainment,Eating Out,,-13.5,,PIZZA & PASTA,Expense,N26
+2020-05-09,Groceries,,,-61.85,,REWE Markt GmbH-Zw,Expense,N26
+2020-05-09,Groceries,,,-21.1,,WEINHANDLUNG HERTZ,Expense,N26
+2020-05-10,Leisure/Entertainment,,,-15.0,,MUSTY BURGER,Expense,N26
+2020-05-10,Leisure/Entertainment,,,-6.3,,IZ *Isla Berlin GmbH,Expense,N26
+2020-05-11,Media Subscriptions,,,-0.99,,AMZNPrime DE*C129A1BN5,Expense,N26
+2020-05-12,Media Subscriptions,,"Referenz 1008894935755 PP.3223.PP  . GITHUB INC, Ihr Einkauf bei GITHUB INC",-3.87,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-05-12,Media Subscriptions,,"Referenz 1008921443438 PP.3223.PP  . ITUNESAPPST, Ihr Einkauf bei ITUNESAPPST",-2.99,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-05-12,Groceries,,,-17.99,,denns Biomarkt,Expense,N26
+2020-05-12,Media Subscriptions,,"Referenz 1008902552724 PP.3223.PP  . ITUNESAPPST, Ihr Einkauf bei ITUNESAPPST",-6.99,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-05-12,Household,,,-9.31,,Rossmann 2425,Expense,N26
+2020-05-13,Gifts,,"PP.1614.PP . RTWININGSCO, Ihr Einkauf bei RTWININGSCO",-19.18,,PayPal Europe S.a.r.l. et Cie S.C.A,Expense,N26
+2020-05-14,Online Education,,"Referenz 1008936079866 PP.3223.PP  . UDEMY, Ihr Einkauf beiUDEMY",-9.99,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-05-14,Charity,,Referenz 16713923Mandat 2019-11024309Einreicher-ID DE06GPD00000328012LX-5310059864-57387091-Foerdererbeitrag Danke.,-5.0,Richard Mcmaster,Greenpeace e.V.,Expense,Postbank
+2020-05-14,,,Referenz 6OVRS2V20G3W5FI8Mandat ivn5+s7Q5gcyAKP99RpBSsSPk+f0PLEinreicher-ID DE94ZZZ00000561653302-0005573-5932342 AMZN Mktp DE 6OVRS2V20G3W5FI8,-32.55,Richard Mcmaster,AMAZON PAYMENTS EUROPE S.C.A.,Expense,Postbank
+2020-05-14,Groceries,,,-32.98,,REWE Markt GmbH-Zw,Expense,N26
+2020-05-14,,,Referenz 4VB0Y8IXU7U43MG7Mandat ivn5+s7Q5gcyAKP99RpBSsSPk+f0PLEinreicher-ID DE94ZZZ00000561653302-1838761-2107569 AMZN Mktp DE 4VB0Y8IXU7U43MG7,-6.65,Richard Mcmaster,AMAZON PAYMENTS EUROPE S.C.A.,Expense,Postbank
+2020-05-15,Online Education,,"Referenz 1008948980758 PP.3223.PP  . UDEMY, Ihr Einkauf beiUDEMY",-9.99,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-05-16,Groceries,,,-16.24,,BIO COMPANY GMBH,Expense,N26
+2020-05-16,,,,-23.04,,AMZN Mktp UK*0E6GX4VD5,Expense,N26
+2020-05-17,Leisure/Entertainment,Eating Out,,-11.3,,PIZZA & PASTA,Expense,N26
+2020-05-18,Media Subscriptions,,,-7.99,,AMZNPrime DE*L74GW9J55,Expense,N26
+2020-05-19,Groceries,,,-38.54,,REWE Markt GmbH-Zw,Expense,N26
+2020-05-19,Household,,,-10.31,,Rossmann 1883,Expense,N26
+2020-05-19,Groceries,,,-29.72,,REWE Markt GmbH-Zw,Expense,N26
+2020-05-19,,,Referenz YYIJ22222CQ55LRY PP.3223.PP  . PAYPAL PAYMENT VIA DIRECT DEBIT to,-2.94,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-05-19,,,Referenz 2L9NTJHT9K2RR3CAMandat ivn5+s7Q5gcyAKP99RpBSsSPk+f0PLEinreicher-ID DE24ZZZ00000561652302-4436908-8692334 Amazon.de 2L9NTJHT9K2RR3CA,-119.99,Richard Mcmaster,"AMAZON EU S.A R.L., NIEDERLASSUNG DEUTSCHLAND",Expense,Postbank
+2020-05-19,,,Referenz 6JGZPXJ1P99FPSWQ302-1838761-2107569 AMZ Alle Preiseinkl. Mwst 6JGZPXJ1P99FPSWQ,6.65,AMAZON PAYMENTS EUROPE S.C.A.,Richard Mcmaster,Income,Postbank
+2020-05-19,Gifts,,"Referenz 1008982042313 PP.3223.PP  . ALLBRITISH, Ihr Einkauf bei ALLBRITISH",-9.53,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-05-19,Phone/Internet,,Referenz 0000109069486 0013869243548Mandat DE04KMMC000109069486T017375165Einreicher-ID DE26ZZZ000000061940000109069486 0013869243548 Rechnungsnr: 117069879619 Vodafone sagt vielen Dank,-46.27,Richard Mcmaster,Vodafone GmbH,Expense,Postbank
+2020-05-20,Media Subscriptions,,"Referenz 1009012337000 PP.3223.PP  . ITUNESAPPST, Ihr Einkauf bei ITUNESAPPST",-6.99,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-05-20,Cash Withdrawal,,Referenz 08483080084160190520191452Mandat 352726Einreicher-ID DE7600200000132558Deutsche Bank//Berlin (BB)/DETerminal 084830802020-05-19T19:14:52Folgenr. 004 Verfalld. 2012,-100.0,Richard Mcmaster,DEUTSCHE BANK,Expense,Postbank
+2020-05-22,Leisure/Entertainment,Coffee,,-12.4,,HOPE DELI UG/GOODIES,Expense,N26
+2020-05-22,Health,,Implant Bezahlung R McMaster,-647.63,Richard Mcmaster,Dr Jansen/Dr Fernandez,Expense,Postbank
+2020-05-22,,,Unknown,500.0,Richard Mcmaster,Richard Mcmaster,Income,Postbank
+2020-05-22,Groceries,,Referenz 52096533075847200520183704Mandat 648719Einreicher-ID DE66ZZZ00001671352LEBENSMITTEL WUEST LAUBACHE//BERLIN/DETerminal 520965332020-05-20T18:37:04Folgenr. 004 Verfalld. 2012,-12.05,Richard Mcmaster,LEBENSMITTEL WUEST LAUBACHE,Expense,Postbank
+2020-05-22,Groceries,,,-24.1,,WEINHANDLUNG HERTZ,Expense,N26
+2020-05-23,Leisure/Entertainment,,,-15.0,,SumUp  *Vocio Teehaus,Expense,N26
+2020-05-23,Household,,,-34.17,,BAUHAUS 597,Expense,N26
+2020-05-24,Leisure/Entertainment,,,-10.0,,MUSTY BURGER,Expense,N26
+2020-05-25,Media Subscriptions,,"Referenz 1009044105038 PP.3223.PP  . GOOGLE, Ihr Einkauf bei GOOGLE",-9.99,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-05-26,Media Subscriptions,,"Referenz 1009062276057 PP.3223.PP  . DATACAMPINC, Ihr Einkauf bei DATACAMPINC",-287.09,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-05-26,Groceries,,Referenz 52096533076256250520153248Mandat 217777Einreicher-ID DE66ZZZ00001671352LEBENSMITTEL WUEST LAUBACHE//BERLIN/DETerminal 520965332020-05-25T15:32:48Folgenr. 004 Verfalld. 2012,-8.75,Richard Mcmaster,LEBENSMITTEL WUEST LAUBACHE,Expense,Postbank
+2020-05-26,Groceries,,,-15.41,,denns Biomarkt,Expense,N26
+2020-05-26,Household,,,-20.37,,Rossmann 2425,Expense,N26
+2020-05-26,Wages,,Referenz 6914123430-000065VerwendungszweckLohn - Gehalt Abrechnung 05/2020,2950.91,plista GmbH,Richard Mcmaster,Income,Postbank
+2020-05-27,Travel,,"Referenz 1009085581054 PP.3223.PP  . BVG JELBI, Ihr Einkaufbei BVG JELBI",-1.9,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-05-27,Leisure/Entertainment,Eating Out,,-11.0,,PIZZA & PASTA,Expense,N26
+2020-05-28,,,"Referenz 1009099432792 PAYPALMandat 4UAJ224MZLD7UEinreicher-ID LU96ZZZ0000000000000000058. DHL OL, Ihr Einkauf bei DHL OL",-21.19,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-05-28,Rent,,MIETE RHEINGAUSTRASSE,-665.0,Richard Mcmaster,CLAUDIA (ING-DIBA),Expense,Postbank
+2020-05-28,,,"Referenz 1009099360434 PAYPALMandat 4UAJ224MZLD7UEinreicher-ID LU96ZZZ0000000000000000058. DHL OL, Ihr Einkauf bei DHL OL",-35.19,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-05-28,Groceries,,,-13.16,,Penny Flughafenstr.,Expense,N26
+2020-05-29,Media Subscriptions,,"Referenz 1009106070164 PP.3223.PP  . MEDIUM.COM, Ihr Einkauf bei MEDIUM.COM",-4.78,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-05-29,Household,,,-16.7,,IKEA Dt. NL Tempelhof,Expense,N26
+2020-05-29,Software,,"PP.1614.PP . PADDLE.COM, Ihr Einkauf bei PADDLE.COM",-4.5,,PayPal Europe S.a.r.l. et Cie S.C.A,Expense,N26

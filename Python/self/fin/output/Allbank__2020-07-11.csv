@@ -1,0 +1,70 @@
+Date,Category,Sub-Category,Details,Amount_EUR,Payer,Payee,Type,Bank
+2020-06-02,Bank Transfer,,Unknown,-500.0,Richard Mcmaster,RICHARD MCMASTER (TAGESGELD),Expense,Postbank
+2020-06-02,,,Referenz 5HXH42NTY69VF490Mandat ivn5+s7Q5gcyAKP99RpBSsSPk+f0PLEinreicher-ID DE94ZZZ00000561653028-6509949-3196357 AMZN Mktp DE 5HXH42NTY69VF490,-3.65,Richard Mcmaster,AMAZON PAYMENTS EUROPE S.C.A.,Expense,Postbank
+2020-06-02,Insurance,,Referenz 025025028097Mandat M-200-004-894-652-4Einreicher-ID DE74ZZZ0000005189040-013288538/HDI Leben/Forderung06/20,-39.14,Richard Mcmaster,HDI Lebensversicherung AG,Expense,Postbank
+2020-06-02,,,Referenz 2BKBKGHF7MSJD4OWMandat ivn5+s7Q5gcyAKP99RpBSsSPk+f0PLEinreicher-ID DE94ZZZ00000561653028-1575890-1172319 AMZN Mktp DE 2BKBKGHF7MSJD4OW,-7.49,Richard Mcmaster,AMAZON PAYMENTS EUROPE S.C.A.,Expense,Postbank
+2020-06-02,,,Referenz 603U2SNS0JY6AJ6QMandat ivn5+s7Q5gcyAKP99RpBSsSPk+f0PLEinreicher-ID DE94ZZZ00000561653028-1575890-1172319 AMZN Mktp DE 603U2SNS0JY6AJ6Q,-7.58,Richard Mcmaster,AMAZON PAYMENTS EUROPE S.C.A.,Expense,Postbank
+2020-06-02,Groceries,,,-8.0,,denns Biomarkt,Expense,N26
+2020-06-02,Loan Repayment,,Referenz 203371085/1Mandat 000053176000001Einreicher-ID DE08ZZZ00000011659CONSORS FINANZ VERTRAGS-NR. ESN 5317602016ABBUCHUNG PER 1.06.2020,-238.4,Richard Mcmaster,Mcmaster Richard,Expense,Postbank
+2020-06-02,Loan Repayment,,"Referenz 60165985082020Ratenkredit 1035716633, Leistungenzum 31.05.2020",-830.0,Richard Mcmaster,Postbank Ndl DB AG,Expense,Postbank
+2020-06-02,Household,,Referenz 30051718437463920121001630065317667Mandat 6531766789402005301718Einreicher-ID DE16ZZZ00000020245300517184374639201210016300 ELV65317667 30.05 17.18 ME4,-19.82,Richard Mcmaster,ROSSMANN VIELEN DANK,Expense,Postbank
+2020-06-02,Groceries,,Referenz 56004879293702300520183341Mandat 218196Einreicher-ID DE58ZZZ00000257236REWE SAGT DANKE. 42400229//Berlin Friedenau/DETerminal 560048792020-05-30T18:33:41Folgenr. 04 Verfalld. 2012,-88.9,Richard Mcmaster,REWE Markt GmbH,Expense,Postbank
+2020-06-03,,,Referenz 64947YIRBOU2JDA8Mandat ivn5+s7Q5gcyAKP99RpBSsSPk+f0PLEinreicher-ID DE94ZZZ00000561653028-5891998-0633954 AMZN Mktp DE 64947YIRBOU2JDA8,-23.99,Richard Mcmaster,AMAZON PAYMENTS EUROPE S.C.A.,Expense,Postbank
+2020-06-03,,,Referenz 2JZDABP13XS6ULEOMandat ivn5+s7Q5gcyAKP99RpBSsSPk+f0PLEinreicher-ID DE24ZZZ00000561652304-3054961-5430767 Amazon.de 2JZDABP13XS6ULEO,-7.99,Richard Mcmaster,"AMAZON EU S.A R.L., NIEDERLASSUNG DEUTSCHLAND",Expense,Postbank
+2020-06-03,Media Subscriptions,,Referenz C1315910202536180CMandat 1515095450503914Einreicher-ID NL74ZZZ342764500017Spotify P0FF84664Babweichender AuftraggeberSpotify,-9.99,Richard Mcmaster,SPOTIFY,Expense,Postbank
+2020-06-04,Groceries,,"Referenz 1009181927877 PAYPALMandat 4UAJ224MZLD7UEinreicher-ID LU96ZZZ0000000000000000058. REWEMARKTGM, Ihr Einkauf bei REWEMARKTGM",-68.38,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-06-05,,,"Referenz 1009198950319 PP.3223.PP  . BILLING, Ihr Einkauf bei BILLING",-5.0,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-06-05,Media Subscriptions,,"PP.1614.PP . WASHPOST, Ihr Einkauf bei WASHPOST",-5.6,,PayPal Europe S.a.r.l. et Cie S.C.A,Expense,N26
+2020-06-08,,,,-0.88,,AWS EMEA,Expense,N26
+2020-06-08,Bank Transfer,,Unknown,-500.0,Richard Mcmaster,R McMaster (N26),Expense,Postbank
+2020-06-08,,,Unknown,1000.0,Richard Mcmaster,Richard Mcmaster,Income,Postbank
+2020-06-08,Charity,,Referenz 9D81A5B64BMandat P000011357-101093825520191003190413Einreicher-ID DE62ZZZ000000609339D81A5B64B atmosfair gGmbH Berlin Climate protection subscription AX1000417283,-6.0,Richard Mcmaster,atmosfair gGmbH,Expense,Postbank
+2020-06-08,Groceries,,Referenz IC-10032810387Mandat 6147258351652006041914Einreicher-ID DE22ZZZ00000151669ELV61472583 04.06 19.14 ME4,-18.44,Richard Mcmaster,DENNS BIOMARKT BERLIN,Expense,Postbank
+2020-06-09,,,Referenz 71B2WG88EDSH38OEMandat ivn5+s7Q5gcyAKP99RpBSsSPk+f0PLEinreicher-ID DE24ZZZ00000561652028-6120260-3365918 Amazon.de 71B2WG88EDSH38OE,-7.77,Richard Mcmaster,"AMAZON EU S.A R.L., NIEDERLASSUNG DEUTSCHLAND",Expense,Postbank
+2020-06-09,,,Referenz YYW1009246860685 PAYPAL,263.55,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Richard Mcmaster,Income,Postbank
+2020-06-09,Household,,,-14.09,,Rossmann 2425,Expense,N26
+2020-06-09,Bank Transfer,,,500.0,,RICHARD MCMASTER,Income,N26
+2020-06-09,Groceries,,Referenz 56018946263964080620213329Mandat OFFLINEEinreicher-ID DE16RPA00000020245REWE SAGT DANKE. 42655432//Berlin Wilmersdo/DETerminal 560189462020-06-08T21:33:29Folgenr. 04 Verfalld. 2012,-30.47,Richard Mcmaster,REWE Mandy Goerlit,Expense,Postbank
+2020-06-10,Media Subscriptions,,"Referenz 1009249049966 PP.3223.PP  . GITHUB INC, Ihr Einkauf bei GITHUB INC",-3.69,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-06-11,,,Referenz 2CRC3EI3GBFYSBHVMandat ivn5+s7Q5gcyAKP99RpBSsSPk+f0PLEinreicher-ID DE94ZZZ00000561653028-8609963-2753966 AMZN Mktp DE 2CRC3EI3GBFYSBHV,-34.99,Richard Mcmaster,AMAZON PAYMENTS EUROPE S.C.A.,Expense,Postbank
+2020-06-11,Media Subscriptions,,"Referenz 1009256921610 PP.3223.PP  . ITUNESAPPST, Ihr Einkauf bei ITUNESAPPST",-6.99,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-06-11,Groceries,,,-24.92,,denns Biomarkt,Expense,N26
+2020-06-12,Media Subscriptions,,"Referenz 1009277611120 PP.3223.PP  . ITUNESAPPST, Ihr Einkauf bei ITUNESAPPST",-2.99,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-06-12,Charity,,Referenz 16837740Mandat 2019-11024309Einreicher-ID DE06GPD00000328012LX-5310059864-57662730-Foerdererbeitrag Danke.,-5.0,Richard Mcmaster,Greenpeace e.V.,Expense,Postbank
+2020-06-13,Groceries,,,-20.62,,BIO COMPANY GMBH,Expense,N26
+2020-06-14,Cash Withdrawal,,,-100.0,,BERLINER VOLKSBANK EG,Expense,N26
+2020-06-15,Insurance,,"Referenz 211+ZKLE 10.06.20 742/078450-H-14FMandat MR016929633Einreicher-ID DE17ZZZ00000031285HUK-COBURG-Allgemeine, HAUSRAT-/HAUSHALTGLAS-VERS. 742/078450-H-14abweichender AuftraggeberHUK-COBURG-ALLGEMEINE VERSICHERUNGAG",-52.81,Richard Mcmaster,HUK-COBURG UNTERNEHMENSGRUPPE,Expense,Postbank
+2020-06-15,,,,0.88,,AWS EMEA,Income,N26
+2020-06-16,Groceries,,,-6.7,,denns Biomarkt,Expense,N26
+2020-06-16,,,"Referenz 1009316513966 PP.3223.PP  . EXPRESSVPN, Ihr Einkauf bei EXPRESSVPN",-12.03,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-06-16,Groceries,,,-30.79,,REWE Markt GmbH-Zw,Expense,N26
+2020-06-18,Household,,,-15.67,,Rossmann 373,Expense,N26
+2020-06-21,,,,-10.0,,SumUp  *GM26,Expense,N26
+2020-06-21,,,,-21.84,,AMZN Mktp UK*ME8YM1NU4,Expense,N26
+2020-06-21,Media Subscriptions,,,-1.1,,Amazon Prime*3250R5Y85,Expense,N26
+2020-06-22,Phone/Internet,,Referenz 0000109069486 0013931607156Mandat DE04KMMC000109069486T017375165Einreicher-ID DE26ZZZ000000061940000109069486 0013931607156 Rechnungsnr: 117145081016 Vodafone sagt vielen Dank,-41.79,Richard Mcmaster,Vodafone GmbH,Expense,Postbank
+2020-06-22,,,Referenz 2MMQO3ZSQ1GHIKPYMandat ivn5+s7Q5gcyAKP99RpBSsSPk+f0PLEinreicher-ID DE94ZZZ00000561653028-9725383-9738761 AMZN Mktp DE 2MMQO3ZSQ1GHIKPY,-46.86,Richard Mcmaster,AMAZON PAYMENTS EUROPE S.C.A.,Expense,Postbank
+2020-06-22,Media Subscriptions,,"Referenz 1009365572808 PP.3223.PP  . ITUNESAPPST, Ihr Einkauf bei ITUNESAPPST",-6.99,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-06-23,Groceries,,Referenz 52096533079766220620084158Mandat OFFLINEEinreicher-ID DE66ZZZ00001671352LEBENSMITTEL WUEST LAUBACHE//BERLIN/DETerminal 520965332020-06-22T08:41:58Folgenr. 004 Verfalld. 2012,-5.77,Richard Mcmaster,LEBENSMITTEL WUEST LAUBACHE,Expense,Postbank
+2020-06-23,Leisure/Entertainment,Eating Out,Referenz 69277488003974220620194101Mandat OFFLINEEinreicher-ID DE82CC000000346626BEEF FABRIK GIR 69277488//BERLIN/DETerminal 692774882020-06-22T19:41:01Folgenr. 004 Verfalld. 2012,-13.86,Richard Mcmaster,BEEF FABRIK,Expense,Postbank
+2020-06-23,Groceries,,,-8.98,,denns Biomarkt,Expense,N26
+2020-06-23,Groceries,,,-31.11,,REWE Markt GmbH-Zw,Expense,N26
+2020-06-23,Media Subscriptions,,"Referenz 1009395404272 PP.3223.PP  . GOOGLE, Ihr Einkauf bei GOOGLE",-9.99,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-06-24,Cash Withdrawal,,,-80.0,,Berliner Sparkasse,Expense,N26
+2020-06-24,Leisure/Entertainment,Cinema,,-5.4,,FREILUFTKINO KREUZBERG,Expense,N26
+2020-06-25,Household,,,-18.3,,Rossmann 2425,Expense,N26
+2020-06-25,Wages,,Referenz 6917519270-000066VerwendungszweckLohn - Gehalt Abrechnung 06/2020,2950.83,plista GmbH,Richard Mcmaster,Income,Postbank
+2020-06-26,Rent,,MIETE RHEINGAUSTRASSE,-665.0,Richard Mcmaster,CLAUDIA (ING-DIBA),Expense,Postbank
+2020-06-28,Media Subscriptions,,,-8.85,,Amazon Prime*XY7OP73W5,Expense,N26
+2020-06-29,Groceries,,Referenz 56018948358621270620194939Mandat OFFLINEEinreicher-ID DE16RPA00000020245REWE SAGT DANKE. 42655432//Berlin Wilmersdo/DETerminal 560189482020-06-27T19:49:39Folgenr. 04 Verfalld. 2012,-81.99,Richard Mcmaster,REWE Mandy Goerlit,Expense,Postbank
+2020-06-29,Media Subscriptions,,,8.85,,Amazon Prime,Income,N26
+2020-06-29,Household,,,-6.95,,Rossmann 2525,Expense,N26
+2020-06-30,,,Referenz 1H6K2MARGG7GLGQX028-5891998-0633954 AMZ Netvip Direct 1H6K2MARGG7GLGQX,23.99,AMAZON PAYMENTS EUROPE S.C.A.,Richard Mcmaster,Income,Postbank
+2020-06-30,Personal Care,Clothes,Referenz 65052797206079290620174214Mandat OFFLINEEinreicher-ID DE16ZZZ00000020245UNIQLO EUROPE LTD.//BERLIN/DETerminal 650527972020-06-29T17:42:14Folgenr. 04 Verfalld. 2012,-225.1,Richard Mcmaster,UNIQLO FLAGSHIP STORE BERL.,Expense,Postbank
+2020-06-30,Loan Repayment,,"Referenz 60199335112020Ratenkredit 1035716633, Leistungenzum 30.06.2020",-830.0,Richard Mcmaster,Postbank Ndl DB AG,Expense,Postbank
+2020-06-30,Media Subscriptions,,"Referenz 1009457229043 PP.3223.PP  . MEDIUM.COM, Ihr Einkauf bei MEDIUM.COM",-4.65,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-06-30,,,"Referenz 1009447974722 PP.3223.PP  . BANDCAMP, Ihr Einkaufbei BANDCAMP",-4.14,Richard Mcmaster,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Expense,Postbank
+2020-06-30,Bank Transfer,,TRANSFER FROM POSTBANK,-500.0,Richard Mcmaster,RICHARD MCMASTER (N26),Expense,Postbank
+2020-06-30,Software,,"PP.1614.PP . PADDLE.COM, Ihr Einkauf bei PADDLE.COM",-4.5,,PayPal Europe S.a.r.l. et Cie S.C.A,Expense,N26
+2020-06-30,,,Unknown,-14.75,Richard Mcmaster,Unknown,Expense,Postbank
+2020-06-30,Groceries,,,-9.99,,denns Biomarkt,Expense,N26

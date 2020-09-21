@@ -1,0 +1,118 @@
+Date,Payee,Account number,Transaction type,Payment reference,Category,Amount (EUR),Amount (Foreign Currency),Type Foreign Currency,Exchange Rate
+2019-10-01,PayPal Europe S.a.r.l. et Cie S.C.A,FR7630004021180001013711792,Direct Debit,"PP.1614.PP . POSTSHOP, Ihr Einkauf bei POSTSHOP",Miscellaneous,-25.5,,,
+2019-10-01,PayPal Europe S.a.r.l. et Cie S.C.A,FR7630004021180001013711792,Direct Debit,"PP.1614.PP . BVG, Ihr Einkauf bei BVG",Miscellaneous,-5.6,,,
+2019-10-02,Richard Mcmaster,DE94600100700549976709,Income,TRANSFER FROM POSTBANK,Salary,400,,,
+2019-10-03,PayPal Europe S.a.r.l. et Cie S.C.A,FR7630004021180001013711792,Direct Debit,"PP.1614.PP . BVG, Ihr Einkauf bei BVG",Miscellaneous,-9,,,
+2019-10-05,REWE Berlin/Neukoe,,MasterCard Payment,,Food & Groceries,-105.34,-105.34,EUR,1
+2019-10-05,MUSTY BURGER,,MasterCard Payment,,Bars & Restaurants,-14.6,-14.6,EUR,1
+2019-10-07,denns Biomarkt,,MasterCard Payment,,Food & Groceries,-2.95,-2.95,EUR,1
+2019-10-11,REWE Berlin/Neukoe,,MasterCard Payment,,Food & Groceries,-19.99,-19.99,EUR,1
+2019-10-13,RESTAURANT AAPKA,,MasterCard Payment,,Bars & Restaurants,-28,-28,EUR,1
+2019-10-14,Rossmann 431,,MasterCard Payment,,Healthcare & Drug Stores,-12.92,-12.92,EUR,1
+2019-10-15,Rossmann 431,,MasterCard Payment,,Transport & Car,-2.29,-2.29,EUR,1
+2019-10-15,Rocky Villanueva,DE33100110012629203135,MoneyBeam,Drinks,Miscellaneous,-30,,,
+2019-10-16,NU Restaurant TXL,,MasterCard Payment,,Food & Groceries,-3.7,-3.7,EUR,1
+2019-10-16,FOTAXI ZRT,,MasterCard Payment,,Business expenses,-28.2,-9330,HUF,0.0031
+2019-10-16,BKK AUTOMATA - B62,,MasterCard Payment,,Business expenses,-9.07,-3000,HUF,0.0031
+2019-10-18,BKK AUTOMATA - B62,,MasterCard Payment,,Transport & Car,-5.31,-1750,HUF,0.0031
+2019-10-19,SumUp  *YaMe NumNums,,MasterCard Payment,,Bars & Restaurants,-27,-27,EUR,1
+2019-10-19,iZ *Curious Fox -,,MasterCard Payment,,Shopping,-28.6,-28.6,EUR,1
+2019-10-19,INTERNATIONAL,,MasterCard Payment,,Leisure & Entertainment,-9.6,-9.6,EUR,1
+2019-10-19,INTERNATIONAL,,MasterCard Payment,,Leisure & Entertainment,-6.6,-6.6,EUR,1
+2019-10-21,DM-Drogerie Markt,,MasterCard Payment,,Healthcare & Drug Stores,-2.85,-2.85,EUR,1
+2019-10-21,IZ *Tinman - Foster &,,MasterCard Payment,,Bars & Restaurants,-6,-6,EUR,1
+2019-10-22,REWE Markt GmbH-Zw,,MasterCard Payment,,Food & Groceries,-9,-9,EUR,1
+2019-10-25,PayPal Europe S.a.r.l. et Cie S.C.A,FR7630004021180001013711792,Direct Debit,"PP.1614.PP . WASHPOST, Ihr Einkauf bei WASHPOST",Miscellaneous,-5.63,,,
+2019-10-26,GOLDFISCH BAR,,MasterCard Payment,,Bars & Restaurants,-50,-50,EUR,1
+2019-10-26,UBER JUMP HELP.UBER.CO,,MasterCard Payment,,Leisure & Entertainment,-2.95,-2.95,EUR,1
+2019-10-26,HELEN FINE BAGELS,,MasterCard Payment,,Food & Groceries,-15.3,-15.3,EUR,1
+2019-10-26,SumUp  *Shakespeare an,,MasterCard Payment,,Bars & Restaurants,-13.95,-13.95,EUR,1
+2019-10-29,Rossmann 1883,,MasterCard Payment,,Healthcare & Drug Stores,-23.08,-23.08,EUR,1
+2019-11-04,BVG,,MasterCard Payment,,Transport & Car,-13.2,-13.2,EUR,1
+2019-11-04,Richard Mcmaster,DE94600100700549976709,Income,TRANSFER FROM POSTBANK,Income,400,,,
+2019-11-05,ZEIT FUER BROT GMBH,,MasterCard Payment,,Food & Groceries,-3.6,-3.6,EUR,1
+2019-11-05,DM-Drogerie Markt,,MasterCard Payment,,Healthcare & Drug Stores,-10.9,-10.9,EUR,1
+2019-11-06,PayPal Europe S.a.r.l. et Cie S.C.A,FR7630004021180001013711792,Direct Debit,"PP.1614.PP . BVG, Ihr Einkauf bei BVG",Miscellaneous,-9,,,
+2019-11-07,RADWELT,,MasterCard Payment,,Transport & Car,-20,-20,EUR,1
+2019-11-07,RADWELT,,MasterCard Payment,,Transport & Car,-19.98,-19.98,EUR,1
+2019-11-07,MILCH & ZUCKER,,MasterCard Payment,,Bars & Restaurants,-6.7,-6.7,EUR,1
+2019-11-09,VEGANZ GMBH,,MasterCard Payment,,Food & Groceries,-7.2,-7.2,EUR,1
+2019-11-09,BIO COMPANY GMBH,,MasterCard Payment,,Food & Groceries,-1.49,-1.49,EUR,1
+2019-11-11,EDEKA FIL. 5409,,MasterCard Payment,,Food & Groceries,-11.35,-11.35,EUR,1
+2019-11-12,ZEIT FUER BROT GMBH,,MasterCard Payment,,Food & Groceries,-4.2,-4.2,EUR,1
+2019-11-13,EDEKA FIL. 5456,,MasterCard Payment,,Food & Groceries,-21.53,-21.53,EUR,1
+2019-11-14,ZEIT FUER BROT GMBH,,MasterCard Payment,,Food & Groceries,-14.5,-14.5,EUR,1
+2019-11-14,BERLINER VOLKSBANK EG,,MasterCard Payment,,ATM,-50,-50,EUR,1
+2019-11-15,MUSTY BURGER,,MasterCard Payment,,Bars & Restaurants,-14.6,-14.6,EUR,1
+2019-11-15,IZ *MUTED HORN,,MasterCard Payment,,Bars & Restaurants,-10.4,-10.4,EUR,1
+2019-11-16,REWE Markt GmbH-Zw,,MasterCard Payment,,Food & Groceries,-52.94,-52.94,EUR,1
+2019-11-19,RICHARD MCMASTER,DE94600100700549976709,Income,,Income,250,,,
+2019-11-22,IZ *Tinman - Foster &,,MasterCard Payment,,Bars & Restaurants,-6.7,-6.7,EUR,1
+2019-11-22,PayPal Europe S.a.r.l. et Cie S.C.A,FR7630004021180001013711792,Direct Debit,"PP.1614.PP . WASHPOST, Ihr Einkauf bei WASHPOST",Miscellaneous,-5.66,,,
+2019-11-23,iZ *Curious Fox -,,MasterCard Payment,,Shopping,-5.5,-5.5,EUR,1
+2019-11-23,denns Biomarkt,,MasterCard Payment,,Food & Groceries,-2.29,-2.29,EUR,1
+2019-11-23,denns Biomarkt,,MasterCard Payment,,Food & Groceries,-31.44,-31.44,EUR,1
+2019-11-23,DM Drogerie Markt,,MasterCard Payment,,Healthcare & Drug Stores,-4.55,-4.55,EUR,1
+2019-11-25,Alnatura Produktions u,,MasterCard Payment,,Food & Groceries,-5.94,-5.94,EUR,1
+2019-11-27,IZ *Isla Berlin GmbH,,MasterCard Payment,,Bars & Restaurants,-6.3,-6.3,EUR,1
+2019-11-27,Penny Flughafenstr.,,MasterCard Payment,,Food & Groceries,-6.11,-6.11,EUR,1
+2019-11-28,PayPal Europe S.a.r.l. et Cie S.C.A,FR7630004021180001013711792,Direct Debit,"PP.1614.PP . BVG, Ihr Einkauf bei BVG",Miscellaneous,-9,,,
+2019-11-30,iZ *Curious Fox -,,MasterCard Payment,,Shopping,-4.6,-4.6,EUR,1
+2019-12-02,Amazon Prime*QE7U63IO5,,MasterCard Payment,,Media & Electronics,-1.16,-0.99,GBP,1.1718
+2019-12-02,AMZNMktplace,,MasterCard Payment,,Shopping,-68.03,-68.03,EUR,1
+2019-12-02,AMZNMktplace,,MasterCard Payment,,Shopping,-12.16,-12.16,EUR,1
+2019-12-02,UNIQLO Europe LTD.,,MasterCard Payment,,Shopping,-102.4,-102.4,EUR,1
+2019-12-03,Richard Mcmaster,DE94600100700549976709,Income,TRANSFER FROM POSTBANK,Income,400,,,
+2019-12-03,PayPal Europe S.a.r.l. et Cie S.C.A,FR7630004021180001013711792,Direct Debit,"PP.1614.PP . TAKEAWAYCOM, Ihr Einkauf bei TAKEAWAYCOM",Miscellaneous,-21.58,,,
+2019-12-03,PayPal Europe S.a.r.l. et Cie S.C.A,FR7630004021180001013711792,Direct Debit,"PP.1614.PP . P CRAWFORD, Ihr Einkauf bei P CRAWFORD",Miscellaneous,-92.1,,,
+2019-12-05,ZEIT FUER BROT GMBH,,MasterCard Payment,,Food & Groceries,-4.4,-4.4,EUR,1
+2019-12-05,IZ *Tinman - Foster &,,MasterCard Payment,,Bars & Restaurants,-5,-5,EUR,1
+2019-12-06,BARCLAYCARD.CO.UK,,MasterCard Payment,,Shopping,-164.11,-138.21,GBP,1.1874
+2019-12-06,Smile,GB90CPBK08928616228614,Outgoing Transfer, ,Miscellaneous,-60,,,
+2019-12-06,ZEIT FUER BROT GMBH,,MasterCard Payment,,Food & Groceries,-4.4,-4.4,EUR,1
+2019-12-06,Rossmann 431,,MasterCard Payment,,Healthcare & Drug Stores,-10.75,-10.75,EUR,1
+2019-12-07,KAFEIN B-Hermannpl,,MasterCard Payment,,Food & Groceries,-29.89,-29.89,EUR,1
+2019-12-07,Cigo/Lotto-Tabak-Press,,MasterCard Payment,,Shopping,-7.5,-7.5,EUR,1
+2019-12-07,KARSTADT HERMANNPLATZ,,MasterCard Payment,,Shopping,-3,-3,EUR,1
+2019-12-07,KARSTADT HERMANNPLATZ,,MasterCard Payment,,Shopping,-4.95,-4.95,EUR,1
+2019-12-09,Amazon Prime*I39WB82D5,,MasterCard Payment,,Media & Electronics,-9.52,-7.99,GBP,1.1915
+2019-12-10,RICHARD MCMASTER,DE94600100700549976709,Income,,Income,500,,,
+2019-12-10,AMZN Mktp UK*RI9UK1DB5,,MasterCard Payment,,Shopping,-21.11,-21.11,EUR,1
+2019-12-11,AMZNMktplace,,MasterCard Payment,,Shopping,-7.27,-7.27,EUR,1
+2019-12-11,AMZNMktplace,,MasterCard Payment,,Shopping,-23.8,-23.8,EUR,1
+2019-12-12,AMZNMktplace,,MasterCard Payment,,Shopping,-47.32,-47.32,EUR,1
+2019-12-14,REWE Markt GmbH-Zw,,MasterCard Payment,,Food & Groceries,-73.48,-73.48,EUR,1
+2019-12-15,AMZN Mktp UK*FU9EZ1SB5,,MasterCard Payment,,Shopping,-18.41,-18.41,EUR,1
+2019-12-16,UNIQLO Europe LTD.,,MasterCard Payment,,Shopping,-9.9,-9.9,EUR,1
+2019-12-16,ZEIT FUER BROT GMBH,,MasterCard Payment,,Food & Groceries,-4.4,-4.4,EUR,1
+2019-12-16,AIRCOACHEUR,,MasterCard Payment,,Transport & Car,-48,-48,EUR,1
+2019-12-16,Berliner Sparkasse,,MasterCard Payment,,ATM,-50,-50,EUR,1
+2019-12-17,Apotheke,,MasterCard Payment,,Healthcare & Drug Stores,-13.59,-13.59,EUR,1
+2019-12-17,PayPal Europe S.a.r.l. et Cie S.C.A,FR7630004021180001013711792,Direct Debit,"PP.1614.PP . BVG, Ihr Einkauf bei BVG",Miscellaneous,-9,,,
+2019-12-18,AMZN Mktp UK*KX91859C5,,MasterCard Payment,,Shopping,-17.05,-17.05,EUR,1
+2019-12-18,HUNDT HAMMER STEIN BUC,,MasterCard Payment,,Shopping,-15,-15,EUR,1
+2019-12-18,Sanifair Bhf. Alexande,,MasterCard Payment,,Miscellaneous,-1,-1,EUR,1
+2019-12-18,Modulor GmbH,,MasterCard Payment,,Household & Utilities,-20.3,-20.3,EUR,1
+2019-12-19,AMZNMktplace,,MasterCard Payment,,Shopping,-21.65,-21.65,EUR,1
+2019-12-19,AMZNMktplace,,MasterCard Payment,,Shopping,-10.38,-10.38,EUR,1
+2019-12-19,WH SMITH,,MasterCard Payment,,Shopping,-4.1,-4.1,EUR,1
+2019-12-19,WH SMITH,,MasterCard Payment,,Shopping,-1.8,-1.8,EUR,1
+2019-12-20,NIRAILWAYS BANGOR,,MasterCard Payment,,Transport & Car,-13.68,-11.6,GBP,1.1794
+2019-12-20,PayPal Europe S.a.r.l. et Cie S.C.A,FR7630004021180001013711792,Direct Debit,"PP.1614.PP . WASHPOST, Ihr Einkauf bei WASHPOST",Shopping,-5.63,,,
+2019-12-21,TK MAXX,,MasterCard Payment,,Shopping,-14.13,-11.98,GBP,1.1795
+2019-12-21,EASON,,MasterCard Payment,,Shopping,-25.33,-21.48,GBP,1.1793
+2019-12-21,CAFFE NERO 457 BANGOR,,MasterCard Payment,,Bars & Restaurants,-11.32,-9.6,GBP,1.1792
+2019-12-21,ASDA STORES LTD 4285,,MasterCard Payment,,Food & Groceries,-10.79,-9.15,GBP,1.1793
+2019-12-22,THE GUILLEMOT,,MasterCard Payment,,Bars & Restaurants,-29.48,-25,GBP,1.1792
+2019-12-22,AMZN Mktp UK*KP2IT9MH5,,MasterCard Payment,,Shopping,-24.01,-24.01,EUR,1
+2019-12-23,THE GUILLEMOT,,MasterCard Payment,,Bars & Restaurants,-3.06,-2.6,GBP,1.177
+2019-12-23,PayPal Europe S.a.r.l. et Cie S.C.A,FR7630004021180001013711792,Direct Debit,"PP.1614.PP . BVG, Ihr Einkauf bei BVG",Transport & Car,-3.4,,,
+2019-12-26,CAFFE NERO 466 BELFAST,,MasterCard Payment,,Bars & Restaurants,-6.15,-5.25,GBP,1.1715
+2019-12-27,ESQUIRES,,MasterCard Payment,,Bars & Restaurants,-12.45,-12.45,EUR,1
+2019-12-27,CHESTER BEATTY GIFT SH,,MasterCard Payment,,Shopping,-6.95,-6.95,EUR,1
+2019-12-27,BRAMBLES,,MasterCard Payment,,Bars & Restaurants,-10.95,-10.95,EUR,1
+2019-12-27,TESCO STORES 5612,,MasterCard Payment,,Food & Groceries,-0.59,-0.59,EUR,1
+2019-12-28,THE LOOP T1,,MasterCard Payment,,Travel & Holidays,-2.9,-2.9,EUR,1
+2019-12-30,RICHARD MCMASTER,DE94600100700549976709,Income,,Income,200,,,
+2019-12-31,Rossmann 1883,,MasterCard Payment,,Healthcare & Drug Stores,-28.87,-28.87,EUR,1
+2019-12-31,PayPal Europe S.a.r.l. et Cie S.C.A,FR7630004021180001013711792,Direct Debit,"PP.1614.PP . BVG, Ihr Einkauf bei BVG",Transport & Car,-1.6,,,

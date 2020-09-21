@@ -4,11 +4,11 @@ SELECT DISTINCT
 	TABLE_NAME,
 	COLUMNS.COLUMN_NAME
 FROM INFORMATION_SCHEMA.COLUMNS
-WHERE TRUE AND lower(COLUMN_NAME) LIKE '%account%'
+WHERE TRUE AND lower(COLUMN_NAME) LIKE '%pillar%'
 # 		AND lower(COLUMNS.TABLE_NAME) LIKE '%account%')
 	AND TABLE_SCHEMA IN(
-# 		'db_youfilter',
-# 		'statistics',
+		'db_youfilter',
+		'statistics',
 		'insights'
 		)
 ;

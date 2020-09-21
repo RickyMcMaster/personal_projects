@@ -41,3 +41,18 @@ SELECT
 FROM information_schema.tables
 WHERE table_name LIKE 'f_g%'
 ;
+
+SHOW TABLES;
+
+SHOW COLUMNS FROM insights.publisherHouse_classification_bkp;
+
+SELECT
+	T.TABLE_SCHEMA,
+	T.TABLE_NAME,
+	T.TABLE_ROWS,
+	T.ENGINE
+FROM information_schema.TABLES T
+WHERE T.TABLE_SCHEMA = 'insights'
+	AND T.TABLE_NAME IN ('f_domain_widget', 'f_domain_widget_camp', 'd_domain_widget', 'd_calendar', 'd_campaigns')
+LIMIT 20
+;
