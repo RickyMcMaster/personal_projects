@@ -3,10 +3,6 @@ from random import randint, choice
 import pyfiglet
 from termcolor import colored
 
-header = pyfiglet.figlet_format("Welcome to Dad Jokes 5000!")
-
-print(colored(header, "cyan"))
-
 
 def joke_finder():
     joke_term = input("What topic would you like to search jokes on? ")
@@ -23,11 +19,14 @@ def joke_finder():
         print(choice(jokes))
 
 
-user_input = ""
-while user_input != "q":
-    joke_finder()
-    user_input = input("Press any key to try another joke, or q to quit: ")
+if __name__ == "main":
+    header = pyfiglet.figlet_format("Welcome to Dad Jokes 5000!")
+    print(colored(header, "cyan"))
+    user_input = ""
+    while user_input != "q":
+        joke_finder()
+        user_input = input("Press any key to try another joke, or q to quit: ")
 
-print(colored(pyfiglet.figlet_format("Goodbye!"), "yellow"))
+    print(colored(pyfiglet.figlet_format("Goodbye!"), "yellow"))
 
-# Added pyfiglet and choice as per Colt Steele's walkthrough
+    # Added pyfiglet and choice as per Colt Steele's walkthrough

@@ -1,3 +1,5 @@
 ### Topics to Revise
-enumerate()
-all()
+
+* enumerate()
+* all()
+* multiple yields
